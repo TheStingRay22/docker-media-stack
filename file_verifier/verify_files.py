@@ -2,20 +2,16 @@ import os
 import shutil
 import subprocess
 
-# Paths
-DOWNLOAD_DIR = "/mnt/d/linux/media/downloads"
-TV_DIR = "/mnt/d/linux/media/tv"
-MOVIES_DIR = "/mnt/d/linux/media/movies"
-MUSIC_DIR = "/mnt/d/linux/media/music"
-QUARANTINE_DIR = "/mnt/d/linux/media/quarantine"
-FAILED_DIR = "/mnt/d/linux/media/did_not_pass"
+DOWNLOAD_DIR = "/downloads"
+TV_DIR = "/tv"
+MOVIES_DIR = "/movies"
+MUSIC_DIR = "/music"
+QUARANTINE_DIR = "/quarantine"
+FAILED_DIR = "/did_not_pass"
 
 def scan_file(path):
-    """Run ClamAV scan and return True if clean, False if infected"""
     result = subprocess.run(["clamscan", path], capture_output=True, text=True)
-    if "Infected files: 0" in result.stdout:
-        return True
-    return False
+    return "Infected files: 0" in result.stdout
 
 def move_file(path, destination_dir):
     os.makedirs(destination_dir, exist_ok=True)
@@ -24,7 +20,7 @@ def move_file(path, destination_dir):
 def classify_and_move(path):
     name = os.path.basename(path).lower()
     if any(ext in name for ext in [".mp4", ".mkv", ".avi"]):
-        move_file(path, TV_DIR if "s" in name else MOVIES_DIR)
+        move_file(path, MOVIES_DIR if "movie" in name else TV_DIR)
     elif any(ext in name for ext in [".mp3", ".flac", ".wav"]):
         move_file(path, MUSIC_DIR)
     else:
