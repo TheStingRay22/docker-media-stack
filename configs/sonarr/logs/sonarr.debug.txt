@@ -2843,3 +2843,47 @@
 2025-09-02 15:45:32.6|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (8 ms)
 2025-09-02 15:45:32.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2025-09-02 15:45:32.7|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (12 ms)
+2025-09-02 15:46:32.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:33.1|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (174 ms)
+2025-09-02 15:46:33.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:33.2|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (73 ms)
+2025-09-02 15:46:48.3|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:46:48.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:46:49.0|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:46:49.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 15:46:49.2|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 15:46:51.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:51.4|Debug|Api|[GET] /api/v3/command: 200.OK (259 ms)
+2025-09-02 15:46:51.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (465 ms)
+2025-09-02 15:46:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:52.3|Debug|Api|[GET] /api/v3/command: 200.OK (124 ms)
+2025-09-02 15:47:20.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:47:20.5|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2025-09-02 15:47:33.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:47:33.5|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (26 ms)
+2025-09-02 15:47:33.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:47:33.6|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (11 ms)
+2025-09-02 15:47:50.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:47:51.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:47:51.3|Debug|Api|[GET] /api/v3/command: 200.OK (162 ms)
+2025-09-02 15:48:21.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:21.8|Debug|Api|[GET] /api/v3/command: 200.OK (32 ms)
+2025-09-02 15:48:23.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:23.0|Debug|Api|[GET] /api/v3/command: 200.OK (11 ms)
+2025-09-02 15:48:33.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:33.9|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (7 ms)
+2025-09-02 15:48:34.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:34.1|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (11 ms)
+2025-09-02 15:49:34.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:34.2|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (25 ms)
+2025-09-02 15:49:34.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:34.3|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (11 ms)
+2025-09-02 15:49:51.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:51.7|Debug|Api|[GET] /api/v3/command: 200.OK (80 ms)
+2025-09-02 15:49:52.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:52.6|Debug|Api|[GET] /api/v3/command: 200.OK (29 ms)
+2025-09-02 15:50:34.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:50:34.5|Debug|Api|[GET] /api/system/status?apikey=(removed) 404.NotFound (8 ms)
+2025-09-02 15:50:34.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:50:34.6|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (11 ms)

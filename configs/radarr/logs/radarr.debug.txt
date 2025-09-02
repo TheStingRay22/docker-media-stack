@@ -2249,3 +2249,39 @@ container.With(rules => rules.WithCaptureContainerDisposeStackTrace())"
 2025-09-02 15:45:17.2|Debug|Api|[GET] /api/v3/command: 200.OK (184 ms)
 2025-09-02 15:45:17.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2025-09-02 15:45:17.6|Debug|Api|[GET] /api/v3/command: 200.OK (208 ms)
+2025-09-02 15:46:46.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:46.3|Debug|Api|[GET] /api/v3/queue/details: 200.OK (256 ms)
+2025-09-02 15:46:48.2|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:48.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (11 ms)
+2025-09-02 15:46:48.4|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:48.8|Debug|Api|[GET] /api/v3/command: 200.OK (361 ms)
+2025-09-02 15:46:48.9|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:49.0|Debug|Api|[GET] /api/v3/command: 200.OK (148 ms)
+2025-09-02 15:46:49.3|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:46:49.3|Debug|Api|[GET] /api/v3/command: 200.OK (24 ms)
+2025-09-02 15:47:17.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-02 15:47:18.3|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:47:18.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:47:18.6|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:47:18.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:47:18.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 15:47:18.9|Debug|Api|[GET] /api/v3/command: 200.OK (123 ms)
+2025-09-02 15:47:19.0|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 15:47:20.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:47:21.0|Debug|Api|[GET] /api/v3/command: 200.OK (166 ms)
+2025-09-02 15:48:18.6|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:18.6|Debug|Api|[GET] /api/v3/queue/details: 200.OK (27 ms)
+2025-09-02 15:48:19.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:20.0|Debug|Api|[GET] /api/v3/command: 200.OK (149 ms)
+2025-09-02 15:48:20.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:20.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (19 ms)
+2025-09-02 15:48:20.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:48:20.9|Debug|Api|[GET] /api/v3/command: 200.OK (292 ms)
+2025-09-02 15:49:49.0|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:49.1|Debug|Api|[GET] /api/v3/queue/details: 200.OK (161 ms)
+2025-09-02 15:49:49.8|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:50.0|Debug|Api|[GET] /api/v3/command: 200.OK (265 ms)
+2025-09-02 15:49:50.1|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:50.6|Debug|Api|[GET] /api/v3/queue/details: 200.OK (540 ms)
+2025-09-02 15:49:50.7|Debug|Radarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:49:50.7|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)

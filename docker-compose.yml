@@ -152,19 +152,19 @@ services:
   # --------------------
   # Python verification container
   # --------------------
-file_verifier:
-  build: ./file_verifier       # we'll put your Python script in here
-  container_name: file_verifier
-  volumes:
-    - /mnt/d/linux/media/downloads:/downloads
-    - /mnt/d/linux/media/tv:/tv
-    - /mnt/d/linux/media/movies:/movies
-    - /mnt/d/linux/media/music:/music
-    - /mnt/d/linux/media/quarantine:/quarantine
-    - /mnt/d/linux/media/did_not_pass:/did_not_pass
-  depends_on:
-    - clamav
-  restart: unless-stopped
+  file_verifier:
+    build: ./file_verifier       # we'll put your Python script in here
+    container_name: file_verifier
+    volumes:
+      - /mnt/d/linux/media/downloads:/downloads
+      - /mnt/d/linux/media/tv:/tv
+      - /mnt/d/linux/media/movies:/movies
+      - /mnt/d/linux/media/music:/music
+      - /mnt/d/linux/media/quarantine:/quarantine
+      - /mnt/d/linux/media/did_not_pass:/did_not_pass
+    depends_on:
+      - clamav
+    restart: unless-stopped
 
   # --------------------
   # Watchtower (auto-updates)
