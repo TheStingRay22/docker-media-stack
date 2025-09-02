@@ -1,3 +1,6 @@
+networks:
+  media-network:
+    driver: bridge
 services:
 
   # --------------------
@@ -12,8 +15,8 @@ services:
       - TZ=America/New_York
       - WEBUI_PORT=8080
     volumes:
-      - /mnt/d/media/downloads:/downloads
-      - /mnt/d/docker_stack/configs/qbit:/config
+      - /mnt/d/linux/media/downloads:/downloads
+      - /mnt/d/linux/docker_stack/configs/qbit:/config
     ports:
       - "8080:8080"
       - "6881:6881"
@@ -29,8 +32,8 @@ services:
     image: jellyfin/jellyfin:latest
     container_name: jellyfin
     volumes:
-      - /mnt/d/media/library:/media/library
-      - /mnt/d/docker_stack/configs/jellyfin:/config
+      - /mnt/d/linux/media/library:/media/library
+      - /mnt/d/linux/docker_stack/configs/jellyfin:/config
     ports:
       - "8096:8096"
       - "8920:8920"
@@ -49,9 +52,9 @@ services:
       - PGID=1000
       - TZ=America/New_York
     volumes:
-      - /mnt/d/media/downloads:/downloads
-      - /mnt/d/media/library/tv:/tv
-      - /mnt/d/docker_stack/configs/sonarr:/config
+      - /mnt/d/linux/media/downloads:/downloads
+      - /mnt/d/linux/media/library/tv:/tv
+      - /mnt/d/linux/docker_stack/configs/sonarr:/config
     ports:
       - "8989:8989"
     networks:
@@ -69,9 +72,9 @@ services:
       - PGID=1000
       - TZ=America/New_York
     volumes:
-      - /mnt/d/media/downloads:/downloads
-      - /mnt/d/media/library/movies:/movies
-      - /mnt/d/docker_stack/configs/radarr:/config
+      - /mnt/d/linux/media/downloads:/downloads
+      - /mnt/d/linux/media/library/movies:/movies
+      - /mnt/d/linux/docker_stack/configs/radarr:/config
     ports:
       - "7878:7878"
     networks:
@@ -89,9 +92,9 @@ services:
       - PGID=1000
       - TZ=America/New_York
     volumes:
-      - /mnt/d/media/downloads:/downloads
-      - /mnt/d/media/library/music:/music
-      - /mnt/d/docker_stack/configs/lidarr:/config
+      - /mnt/d/linux/media/downloads:/downloads
+      - /mnt/d/linux/media/library/music:/music
+      - /mnt/d/linux/docker_stack/configs/lidarr:/config
     ports:
       - "8686:8686"
     networks:
@@ -109,7 +112,7 @@ services:
       - PGID=1000
       - TZ=America/New_York
     volumes:
-      - /mnt/d/docker_stack/configs/prowlarr:/config
+      - /mnt/d/linux/docker_stack/configs/prowlarr:/config
     ports:
       - "9696:9696"
     networks:
@@ -127,8 +130,8 @@ services:
       - PGID=1000
       - TZ=America/New_York
     volumes:
-      - /mnt/d/media/library:/media/library
-      - /mnt/d/docker_stack/configs/bazarr:/config
+      - /mnt/d/linux/media/library:/media/library
+      - /mnt/d/linux/docker_stack/configs/bazarr:/config
     ports:
       - "6767:6767"
     networks:
@@ -144,8 +147,8 @@ services:
     environment:
       - TZ=America/New_York
     volumes:
-      - /mnt/d/media/downloads:/downloads:ro
-      - /mnt/d/docker_stack/scripts:/scripts
+      - /mnt/d/linux/media/downloads:/downloads:ro
+      - /mnt/d/linux/docker_stack/scripts:/scripts
     networks:
       - media-network
     restart: unless-stopped
@@ -157,8 +160,8 @@ services:
     image: python:3.12-slim
     container_name: file_verifier
     volumes:
-      - /mnt/d/media/downloads:/downloads
-      - /mnt/d/docker_stack/scripts:/scripts
+      - /mnt/d/linux/media/downloads:/downloads
+      - /mnt/d/linux/docker_stack/scripts:/scripts
     working_dir: /scripts
     command: python verify_files.py
     networks:
