@@ -1,0 +1,179 @@
+services:
+
+  # --------------------
+  # qBittorrent
+  # --------------------
+  qbit:
+    image: linuxserver/qbittorrent
+    container_name: qbit
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+      - WEBUI_PORT=8080
+    volumes:
+      - /mnt/d/media/downloads:/downloads
+      - /mnt/d/docker_stack/configs/qbit:/config
+    ports:
+      - "8080:8080"
+      - "6881:6881"
+      - "6881:6881/udp"
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # Jellyfin
+  # --------------------
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    volumes:
+      - /mnt/d/media/library:/media/library
+      - /mnt/d/docker_stack/configs/jellyfin:/config
+    ports:
+      - "8096:8096"
+      - "8920:8920"
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # Sonarr
+  # --------------------
+  sonarr:
+    image: linuxserver/sonarr
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - /mnt/d/media/downloads:/downloads
+      - /mnt/d/media/library/tv:/tv
+      - /mnt/d/docker_stack/configs/sonarr:/config
+    ports:
+      - "8989:8989"
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # Radarr
+  # --------------------
+  radarr:
+    image: linuxserver/radarr
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - /mnt/d/media/downloads:/downloads
+      - /mnt/d/media/library/movies:/movies
+      - /mnt/d/docker_stack/configs/radarr:/config
+    ports:
+      - "7878:7878"
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # Lidarr
+  # --------------------
+  lidarr:
+    image: linuxserver/lidarr
+    container_name: lidarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - /mnt/d/media/downloads:/downloads
+      - /mnt/d/media/library/music:/music
+      - /mnt/d/docker_stack/configs/lidarr:/config
+    ports:
+      - "8686:8686"
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # Prowlarr
+  # --------------------
+  prowlarr:
+    image: linuxserver/prowlarr
+    container_name: prowlarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - /mnt/d/docker_stack/configs/prowlarr:/config
+    ports:
+      - "9696:9696"
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # Bazarr (subtitles)
+  # --------------------
+  bazarr:
+    image: linuxserver/bazarr
+    container_name: bazarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - /mnt/d/media/library:/media/library
+      - /mnt/d/docker_stack/configs/bazarr:/config
+    ports:
+      - "6767:6767"
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # ClamAV
+  # --------------------
+  clamav:
+    image: mk0x/docker-clamav:alpine
+    container_name: clamav
+    environment:
+      - TZ=America/New_York
+    volumes:
+      - /mnt/d/media/downloads:/downloads:ro
+      - /mnt/d/docker_stack/scripts:/scripts
+    networks:
+      - media-network
+    restart: unless-stopped
+
+  # --------------------
+  # Python verification container
+  # --------------------
+  file_verifier:
+    image: python:3.12-slim
+    container_name: file_verifier
+    volumes:
+      - /mnt/d/media/downloads:/downloads
+      - /mnt/d/docker_stack/scripts:/scripts
+    working_dir: /scripts
+    command: python verify_files.py
+    networks:
+      - media-network
+    restart: "no"
+
+  # --------------------
+  # Watchtower (auto-updates)
+  # --------------------
+  watchtower:
+    image: containrrr/watchtower
+    container_name: watchtower
+    environment:
+      - TZ=America/New_York
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: --cleanup
+    restart: unless-stopped
