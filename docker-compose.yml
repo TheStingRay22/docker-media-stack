@@ -142,31 +142,29 @@ services:
   # ClamAV
   # --------------------
   clamav:
-    image: mk0x/docker-clamav:alpine
+    image: clamav/clamav:stable
     container_name: clamav
-    environment:
-      - TZ=America/New_York
     volumes:
-      - /mnt/d/linux/media/downloads:/downloads:ro
-      - /mnt/d/linux/docker_stack/scripts:/scripts
-    networks:
-      - media-network
+      - /mnt/d/linux/media/downloads:/downloads
+      - /mnt/d/linux/media/quarantine:/quarantine
     restart: unless-stopped
 
   # --------------------
   # Python verification container
   # --------------------
-  file_verifier:
-    image: python:3.12-slim
-    container_name: file_verifier
-    volumes:
-      - /mnt/d/linux/media/downloads:/downloads
-      - /mnt/d/linux/docker_stack/scripts:/scripts
-    working_dir: /scripts
-    command: python verify_files.py
-    networks:
-      - media-network
-    restart: "no"
+file_verifier:
+  build: ./file_verifier       # we'll put your Python script in here
+  container_name: file_verifier
+  volumes:
+    - /mnt/d/linux/media/downloads:/downloads
+    - /mnt/d/linux/media/tv:/tv
+    - /mnt/d/linux/media/movies:/movies
+    - /mnt/d/linux/media/music:/music
+    - /mnt/d/linux/media/quarantine:/quarantine
+    - /mnt/d/linux/media/did_not_pass:/did_not_pass
+  depends_on:
+    - clamav
+  restart: unless-stopped
 
   # --------------------
   # Watchtower (auto-updates)

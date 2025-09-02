@@ -637,3 +637,960 @@
 2025-09-02 11:50:53.5|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
 2025-09-02 11:55:53.8|Debug|ImportListSyncService|No import lists with automatic add enabled
 2025-09-02 12:00:54.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:05:55.0|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:05:55.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:05:55.0|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:05:55.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 12:05:55.1|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 12:06:25.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:11:25.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:16:26.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:20:57.0|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:20:57.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:20:57.1|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:20:57.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 12:20:57.1|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 12:21:27.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:26:28.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:31:28.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:35:59.3|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:35:59.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:35:59.3|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:35:59.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 12:35:59.4|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 12:36:29.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:41:29.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:46:30.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:51:00.6|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:51:00.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:51:00.7|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:51:00.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 12:51:00.7|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 12:51:30.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 12:56:31.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 13:01:32.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 13:06:02.6|Info|RssSyncService|Starting RSS Sync
+2025-09-02 13:06:02.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 13:06:02.7|Info|DownloadDecisionMaker|No results found
+2025-09-02 13:06:02.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 13:06:02.8|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 13:06:32.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 13:11:33.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 13:16:33.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 13:22:44.2|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 13:22:44.2|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 13:22:44.2|Debug|ProcessProvider| - [151] Lidarr
+2025-09-02 13:22:44.4|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:22:44.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:22:44.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:22:44.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:22:45.1|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:22:45.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.4668096s
+2025-09-02 13:22:45.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:22:45.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.5104833s
+2025-09-02 13:22:45.4|Debug|MigrationController|Took: 00:00:00.9925527
+2025-09-02 13:22:45.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:22:45.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:22:45.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:22:45.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:22:45.6|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:22:45.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1373103s
+2025-09-02 13:22:45.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:22:45.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1867795s
+2025-09-02 13:22:45.8|Debug|MigrationController|Took: 00:00:00.3853184
+2025-09-02 13:22:46.3|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 13:22:46.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 13:22:47.1|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 13:22:48.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 13:22:49.4|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 13:22:49.9|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 13:22:49.9|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 13:22:49.9|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 13:22:50.0|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 13:22:50.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 13:22:50.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 13:22:50.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 13:22:50.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 13:23:20.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 13:23:20.6|Info|RssSyncService|Starting RSS Sync
+2025-09-02 13:23:20.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 13:23:20.7|Info|DownloadDecisionMaker|No results found
+2025-09-02 13:23:20.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 13:23:20.7|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 13:30:12.4|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 13:30:12.5|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 13:30:12.5|Debug|ProcessProvider| - [152] Lidarr
+2025-09-02 13:30:12.6|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:30:12.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:30:12.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:30:12.9|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:30:13.1|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:30:13.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2324772s
+2025-09-02 13:30:13.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:30:13.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2590676s
+2025-09-02 13:30:13.3|Debug|MigrationController|Took: 00:00:00.7340389
+2025-09-02 13:30:13.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:30:13.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:30:13.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:30:13.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:30:13.5|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:30:13.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0953454s
+2025-09-02 13:30:13.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:30:13.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1385468s
+2025-09-02 13:30:13.7|Debug|MigrationController|Took: 00:00:00.3074195
+2025-09-02 13:30:14.4|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 13:30:15.1|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 13:30:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 13:30:15.7|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 13:30:18.4|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 13:30:19.3|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 13:30:19.3|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 13:30:19.3|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 13:30:19.4|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 13:30:19.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 13:30:19.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 13:30:19.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 13:30:19.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 13:30:49.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 13:36:19.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 14:10:11.8|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 14:10:11.9|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 14:10:11.9|Debug|ProcessProvider| - [149] Lidarr
+2025-09-02 14:10:12.0|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:10:12.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:10:12.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:10:12.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:10:12.5|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:10:12.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2437371s
+2025-09-02 14:10:12.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:10:12.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2714079s
+2025-09-02 14:10:12.7|Debug|MigrationController|Took: 00:00:00.6744216
+2025-09-02 14:10:12.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:10:12.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:10:12.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:10:12.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:10:12.9|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:10:12.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0925635s
+2025-09-02 14:10:12.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:10:13.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1284661s
+2025-09-02 14:10:13.1|Debug|MigrationController|Took: 00:00:00.3444254
+2025-09-02 14:10:13.5|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 14:10:14.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 14:10:14.3|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 14:10:14.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 14:10:16.8|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 14:10:17.4|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 14:10:17.4|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 14:10:17.4|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 14:10:17.4|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 14:10:17.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:10:17.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:10:17.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 14:10:17.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:10:47.7|Info|RssSyncService|Starting RSS Sync
+2025-09-02 14:10:47.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 14:10:47.8|Info|DownloadDecisionMaker|No results found
+2025-09-02 14:10:47.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 14:10:47.8|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 14:10:47.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 14:11:02.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 14:11:03.3|Info|ConsoleApp|Exiting main.
+2025-09-02 14:21:53.7|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 14:21:53.7|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 14:21:53.7|Debug|ProcessProvider| - [153] Lidarr
+2025-09-02 14:21:53.9|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:21:54.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:21:54.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:21:54.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:21:54.3|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:21:54.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1630552s
+2025-09-02 14:21:54.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:21:54.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.187379s
+2025-09-02 14:21:54.5|Debug|MigrationController|Took: 00:00:00.6158001
+2025-09-02 14:21:54.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:21:54.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:21:54.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:21:54.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:21:54.7|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:21:54.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1384087s
+2025-09-02 14:21:54.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:21:54.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1646999s
+2025-09-02 14:21:54.9|Debug|MigrationController|Took: 00:00:00.3385266
+2025-09-02 14:21:55.2|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 14:21:55.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 14:21:56.1|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 14:21:56.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 14:21:58.3|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 14:21:59.0|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 14:21:59.1|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 14:21:59.1|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 14:21:59.2|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 14:21:59.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:21:59.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:21:59.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 14:21:59.5|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:22:29.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 14:44:56.1|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 14:44:56.1|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 14:44:56.1|Debug|ProcessProvider| - [152] Lidarr
+2025-09-02 14:44:56.3|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:44:56.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:44:56.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:44:56.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:44:56.8|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:44:56.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.303611s
+2025-09-02 14:44:56.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:44:56.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.334719s
+2025-09-02 14:44:57.1|Debug|MigrationController|Took: 00:00:00.8052030
+2025-09-02 14:44:57.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:44:57.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:44:57.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:44:57.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:44:57.3|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:44:57.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1475092s
+2025-09-02 14:44:57.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:44:57.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1855898s
+2025-09-02 14:44:57.5|Debug|MigrationController|Took: 00:00:00.3764901
+2025-09-02 14:44:57.9|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 14:44:58.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 14:44:58.8|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 14:44:59.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 14:45:01.7|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 14:45:02.3|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 14:45:02.3|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 14:45:02.3|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 14:45:02.4|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 14:45:02.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:45:02.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:45:02.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 14:45:02.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:45:32.4|Info|RssSyncService|Starting RSS Sync
+2025-09-02 14:45:32.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 14:45:32.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 14:45:32.6|Info|DownloadDecisionMaker|No results found
+2025-09-02 14:45:32.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 14:45:32.7|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 14:47:35.6|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 14:47:35.6|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 14:47:35.6|Debug|ProcessProvider| - [151] Lidarr
+2025-09-02 14:47:35.8|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:47:36.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:47:36.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:47:36.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:47:36.3|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:47:36.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2914085s
+2025-09-02 14:47:36.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:47:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.315887s
+2025-09-02 14:47:36.5|Debug|MigrationController|Took: 00:00:00.7617239
+2025-09-02 14:47:36.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:47:36.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:47:36.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:47:36.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:47:36.8|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:47:36.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1839035s
+2025-09-02 14:47:36.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:47:36.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2303068s
+2025-09-02 14:47:37.0|Debug|MigrationController|Took: 00:00:00.4391926
+2025-09-02 14:47:37.4|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 14:47:37.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 14:47:38.2|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 14:47:38.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 14:47:40.8|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 14:47:41.4|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 14:47:41.4|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 14:47:41.4|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 14:47:41.5|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 14:47:41.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:47:41.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:47:41.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 14:47:41.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:49:23.1|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.3|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.3|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.4|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.5|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.5|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.6|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.6|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:23.7|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:24.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.3|Debug|Api|[GET] /api/v1/tag: 200.OK (32 ms)
+2025-09-02 14:49:24.4|Debug|Api|[GET] /api/v1/language: 200.OK (62 ms)
+2025-09-02 14:49:24.4|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:24.4|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:24.4|Debug|Api|[GET] /api/v1/customFilter: 200.OK (101 ms)
+2025-09-02 14:49:24.5|Debug|Api|[GET] /api/v1/artist: 200.OK (150 ms)
+2025-09-02 14:49:24.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.5|Debug|Api|[GET] /api/v1/qualityprofile: 200.OK (51 ms)
+2025-09-02 14:49:24.5|Debug|Api|[GET] /api/v1/metadataprofile: 200.OK (47 ms)
+2025-09-02 14:49:24.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.6|Debug|Api|[GET] /api/v1/indexerFlag: 200.OK (22 ms)
+2025-09-02 14:49:24.6|Debug|Api|[GET] /api/v1/importlist: 200.OK (50 ms)
+2025-09-02 14:49:24.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.6|Debug|Api|[GET] /api/v1/config/ui: 200.OK (39 ms)
+2025-09-02 14:49:24.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.7|Debug|Api|[GET] /api/v1/localization: 200.OK (17 ms)
+2025-09-02 14:49:24.7|Debug|Api|[GET] /api/v1/system/status: 200.OK (65 ms)
+2025-09-02 14:49:24.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 14:49:24.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:24.8|Debug|Lidarr.Http.Authentication.NoAuthenticationHandler|AuthenticationScheme: None was successfully authenticated.
+2025-09-02 14:49:24.9|Debug|Api|[GET] /api/v1/health: 200.OK (51 ms)
+2025-09-02 14:49:24.9|Debug|Api|[GET] /api/v1/queue/status: 200.OK (59 ms)
+2025-09-02 14:49:25.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (136 ms)
+2025-09-02 14:49:25.0|Debug|Api|[GET] /api/v1/config/host: 200.OK (191 ms)
+2025-09-02 14:49:25.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 14:49:41.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:41.2|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (14 ms)
+2025-09-02 14:49:41.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:41.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 14:49:41.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:41.4|Debug|Api|[GET] /api/v1/command: 200.OK (65 ms)
+2025-09-02 14:49:41.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:49:41.5|Debug|Api|[GET] /api/v1/command: 200.OK (11 ms)
+2025-09-02 14:50:41.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 14:50:41.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:50:41.4|Debug|Api|[GET] /api/v1/command: 200.OK (13 ms)
+2025-09-02 14:50:41.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:50:41.6|Debug|Api|[GET] /api/v1/command: 200.OK (10 ms)
+2025-09-02 14:51:11.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:51:11.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (15 ms)
+2025-09-02 14:51:11.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:51:11.6|Debug|Api|[GET] /api/v1/command: 200.OK (41 ms)
+2025-09-02 14:51:11.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:51:11.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (7 ms)
+2025-09-02 14:51:11.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:51:11.8|Debug|Api|[GET] /api/v1/command: 200.OK (11 ms)
+2025-09-02 14:52:41.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:52:41.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (13 ms)
+2025-09-02 14:52:41.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:52:41.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 14:52:41.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:52:41.7|Debug|Api|[GET] /api/v1/command: 200.OK (45 ms)
+2025-09-02 14:52:41.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:52:41.9|Debug|Api|[GET] /api/v1/command: 200.OK (32 ms)
+2025-09-02 14:54:11.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:54:11.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (20 ms)
+2025-09-02 14:54:11.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:54:11.7|Debug|Api|[GET] /api/v1/command: 200.OK (15 ms)
+2025-09-02 14:54:11.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:54:11.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 14:54:11.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:54:11.8|Debug|Api|[GET] /api/v1/command: 200.OK (11 ms)
+2025-09-02 14:55:41.5|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 14:55:41.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:55:41.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (12 ms)
+2025-09-02 14:55:41.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:55:41.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (32 ms)
+2025-09-02 14:55:42.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:55:42.1|Debug|Api|[GET] /api/v1/command: 200.OK (12 ms)
+2025-09-02 14:55:42.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:55:42.2|Debug|Api|[GET] /api/v1/command: 200.OK (27 ms)
+2025-09-02 14:55:42.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:55:42.3|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-09-02 14:56:12.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:56:12.1|Debug|Api|[GET] /api/v1/command: 200.OK (32 ms)
+2025-09-02 14:57:12.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:57:12.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (111 ms)
+2025-09-02 14:57:12.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:57:12.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (149 ms)
+2025-09-02 14:57:13.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:57:13.0|Debug|Api|[GET] /api/v1/command: 200.OK (20 ms)
+2025-09-02 14:57:13.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:57:13.7|Debug|Api|[GET] /api/v1/command: 200.OK (30 ms)
+2025-09-02 14:58:43.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:58:43.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (291 ms)
+2025-09-02 14:58:44.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:58:44.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (153 ms)
+2025-09-02 14:58:45.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:58:45.1|Debug|Api|[GET] /api/v1/command: 200.OK (133 ms)
+2025-09-02 14:58:45.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 14:58:45.3|Debug|Api|[GET] /api/v1/command: 200.OK (10 ms)
+2025-09-02 15:00:13.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:00:14.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (423 ms)
+2025-09-02 15:00:15.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:00:15.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (90 ms)
+2025-09-02 15:00:15.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:00:15.5|Debug|Api|[GET] /api/v1/command: 200.OK (200 ms)
+2025-09-02 15:00:15.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:00:15.9|Debug|Api|[GET] /api/v1/command: 200.OK (96 ms)
+2025-09-02 15:00:44.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:00:45.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:00:44.9|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:00:45.4|Debug|Api|[GET] /api/v1/command: 200.OK (162 ms)
+2025-09-02 15:00:45.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:00:45.7|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:00:45.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 15:00:45.8|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 15:00:46.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:00:46.8|Debug|Api|[GET] /api/v1/command: 200.OK (235 ms)
+2025-09-02 15:01:17.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:01:17.2|Debug|Api|[GET] /api/v1/command: 200.OK (215 ms)
+2025-09-02 15:01:17.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:01:17.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (338 ms)
+2025-09-02 15:01:18.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:01:18.1|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-09-02 15:01:18.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:01:18.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 15:01:18.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:01:18.7|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-09-02 15:02:47.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:02:47.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (67 ms)
+2025-09-02 15:02:47.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:02:48.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:02:48.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (222 ms)
+2025-09-02 15:02:48.2|Debug|Api|[GET] /api/v1/health: 200.OK (133 ms)
+2025-09-02 15:02:48.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:02:48.8|Debug|Api|[GET] /api/v1/command: 200.OK (204 ms)
+2025-09-02 15:02:49.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:02:49.3|Debug|Api|[GET] /api/v1/command: 200.OK (179 ms)
+2025-09-02 15:03:00.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:03:04.3|Debug|Api|[PUT] /api/v1/config/host: 202.Accepted (3808 ms)
+2025-09-02 15:03:04.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:03:05.0|Debug|Api|[GET] /api/v1/system/status: 200.OK (452 ms)
+2025-09-02 15:03:05.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:03:06.0|Debug|Api|[GET] /api/v1/health: 200.OK (35 ms)
+2025-09-02 15:04:17.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:04:18.2|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (413 ms)
+2025-09-02 15:04:18.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:04:18.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (173 ms)
+2025-09-02 15:04:19.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:04:19.4|Debug|Api|[GET] /api/v1/command: 200.OK (176 ms)
+2025-09-02 15:04:19.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:04:19.9|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-09-02 15:05:47.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:05:48.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:05:48.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (26 ms)
+2025-09-02 15:05:49.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:05:49.4|Debug|Api|[GET] /api/v1/command: 200.OK (12 ms)
+2025-09-02 15:05:50.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:05:50.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (342 ms)
+2025-09-02 15:05:50.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:05:50.6|Debug|Api|[GET] /api/v1/command: 200.OK (209 ms)
+2025-09-02 15:05:51.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:05:51.0|Debug|Api|[GET] /api/v1/command: 200.OK (11 ms)
+2025-09-02 15:06:19.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:06:19.5|Debug|Api|[GET] /api/v1/command: 200.OK (29 ms)
+2025-09-02 15:07:18.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:07:18.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 15:07:20.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:07:20.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (245 ms)
+2025-09-02 15:07:20.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:07:20.7|Debug|Api|[GET] /api/v1/command: 200.OK (104 ms)
+2025-09-02 15:07:20.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:07:21.0|Debug|Api|[GET] /api/v1/command: 200.OK (149 ms)
+2025-09-02 15:08:49.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:08:49.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (332 ms)
+2025-09-02 15:08:50.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:08:50.3|Debug|Api|[GET] /api/v1/command: 200.OK (11 ms)
+2025-09-02 15:08:50.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:08:51.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (224 ms)
+2025-09-02 15:08:51.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:08:51.1|Debug|Api|[GET] /api/v1/command: 200.OK (8 ms)
+2025-09-02 15:10:20.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:10:20.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (228 ms)
+2025-09-02 15:10:21.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:10:21.0|Debug|Api|[GET] /api/v1/command: 200.OK (8 ms)
+2025-09-02 15:10:21.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:10:21.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (12 ms)
+2025-09-02 15:10:21.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:10:21.9|Debug|Api|[GET] /api/v1/command: 200.OK (119 ms)
+2025-09-02 15:11:21.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:11:21.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:11:21.7|Debug|Api|[GET] /api/v1/command: 200.OK (89 ms)
+2025-09-02 15:11:22.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:11:22.4|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-09-02 15:11:51.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:11:51.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (10 ms)
+2025-09-02 15:11:53.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:11:53.3|Debug|Api|[GET] /api/v1/command: 200.OK (202 ms)
+2025-09-02 15:11:53.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:11:53.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (188 ms)
+2025-09-02 15:11:54.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:11:54.1|Debug|Api|[GET] /api/v1/command: 200.OK (85 ms)
+2025-09-02 15:13:22.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:13:23.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (256 ms)
+2025-09-02 15:13:23.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:13:23.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (201 ms)
+2025-09-02 15:13:24.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:13:24.3|Debug|Api|[GET] /api/v1/command: 200.OK (236 ms)
+2025-09-02 15:13:24.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:13:24.6|Debug|Api|[GET] /api/v1/command: 200.OK (8 ms)
+2025-09-02 15:14:18.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:18.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:18.3|Debug|Api|[GET] /api/v1/qualityprofile: 200.OK (16 ms)
+2025-09-02 15:14:18.4|Debug|Api|[GET] /api/v1/metadataprofile: 200.OK (42 ms)
+2025-09-02 15:14:18.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:18.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:18.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:18.4|Debug|Api|[GET] /api/v1/delayprofile: 200.OK (33 ms)
+2025-09-02 15:14:18.4|Debug|Api|[GET] /api/v1/releaseprofile: 200.OK (34 ms)
+2025-09-02 15:14:18.6|Debug|Api|[GET] /api/v1/indexer: 200.OK (203 ms)
+2025-09-02 15:14:19.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:19.2|Debug|Api|[GET] /api/v1/config/host: 200.OK (32 ms)
+2025-09-02 15:14:53.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:53.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (12 ms)
+2025-09-02 15:14:54.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:54.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (195 ms)
+2025-09-02 15:14:54.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:55.2|Debug|Api|[GET] /api/v1/command: 200.OK (342 ms)
+2025-09-02 15:14:55.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:14:55.5|Debug|Api|[GET] /api/v1/command: 200.OK (224 ms)
+2025-09-02 15:15:30.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 15:15:33.4|Info|ConsoleApp|Exiting main.
+2025-09-02 15:15:40.9|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 15:15:40.9|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 15:15:40.9|Debug|ProcessProvider| - [151] Lidarr
+2025-09-02 15:15:41.0|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:15:41.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:15:41.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:15:41.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:15:41.5|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:15:41.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2573589s
+2025-09-02 15:15:41.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:15:41.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2769765s
+2025-09-02 15:15:41.7|Debug|MigrationController|Took: 00:00:00.6303412
+2025-09-02 15:15:41.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:15:41.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:15:41.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:15:41.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:15:42.2|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:15:42.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.4569427s
+2025-09-02 15:15:42.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:15:42.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.4766439s
+2025-09-02 15:15:42.3|Debug|MigrationController|Took: 00:00:00.5931468
+2025-09-02 15:15:42.4|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 15:15:42.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 15:15:43.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 15:15:44.3|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 15:15:46.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 15:15:46.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 15:15:47.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:15:47.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:15:47.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:15:47.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:15:47.2|Debug|Api|[GET] /api/v1/queue/status: 200.OK (59 ms)
+2025-09-02 15:15:47.2|Debug|Api|[GET] /api/v1/health: 200.OK (70 ms)
+2025-09-02 15:15:47.2|Debug|Api|[GET] /api/v1/artist: 200.OK (174 ms)
+2025-09-02 15:15:47.3|Debug|Api|[GET] /api/v1/command: 200.OK (108 ms)
+2025-09-02 15:15:58.8|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 15:16:02.4|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 15:16:02.4|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 15:16:02.4|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 15:16:02.5|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 15:16:02.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 15:16:02.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 15:16:02.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 15:16:02.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 15:16:05.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:05.8|Debug|Api|[GET] /api/v1/health: 200.OK (15 ms)
+2025-09-02 15:16:32.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:32.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (420 ms)
+2025-09-02 15:16:33.4|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:16:34.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:34.8|Debug|Api|[GET] /api/v1/command: 200.OK (44 ms)
+2025-09-02 15:16:35.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:35.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:35.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (483 ms)
+2025-09-02 15:16:36.1|Debug|Api|[GET] /api/v1/command: 200.OK (461 ms)
+2025-09-02 15:16:36.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:36.3|Debug|Api|[GET] /api/v1/command: 200.OK (132 ms)
+2025-09-02 15:16:36.3|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:16:36.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:16:36.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:37.0|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:16:37.2|Debug|Api|[GET] /api/v1/command: 200.OK (457 ms)
+2025-09-02 15:16:37.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 15:16:37.2|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 15:16:38.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:16:38.3|Debug|Api|[GET] /api/v1/command: 200.OK (14 ms)
+2025-09-02 15:16:51.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 15:16:52.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 15:16:54.7|Info|ConsoleApp|Exiting main.
+2025-09-02 15:17:12.4|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2025-09-02 15:17:12.4|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2025-09-02 15:17:12.6|Debug|ProcessProvider| - [152] Lidarr
+2025-09-02 15:17:12.7|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:17:12.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:17:12.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:17:13.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:17:13.2|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:17:13.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2631735s
+2025-09-02 15:17:13.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:17:14.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2957842s
+2025-09-02 15:17:14.2|Debug|MigrationController|Took: 00:00:01.4736982
+2025-09-02 15:17:14.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:17:14.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:17:14.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:17:14.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:17:15.1|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:17:15.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3221329s
+2025-09-02 15:17:15.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:17:15.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3543732s
+2025-09-02 15:17:15.3|Debug|MigrationController|Took: 00:00:01.0746931
+2025-09-02 15:17:15.6|Debug|FingerprintingService|fpcalc version: 1.5.1
+2025-09-02 15:17:16.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2025-09-02 15:17:17.0|Debug|QualityDefinitionService|Setting up default quality config
+2025-09-02 15:17:17.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 15:17:20.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 15:17:21.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 15:17:22.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was not authenticated.
+2025-09-02 15:17:22.7|Debug|Auth|Auth-Success ip 100.*.*.19 username 'thestingray22'
+2025-09-02 15:17:23.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:23.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:23.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:23.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:23.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:23.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:23.4|Debug|Api|[GET] /api/v1/artist: 200.OK (273 ms)
+2025-09-02 15:17:23.9|Debug|Api|[GET] /api/v1/customFilter: 200.OK (746 ms)
+2025-09-02 15:17:23.9|Debug|Api|[GET] /api/v1/tag: 200.OK (696 ms)
+2025-09-02 15:17:24.4|Debug|Api|[GET] /api/v1/metadataprofile: 200.OK (1155 ms)
+2025-09-02 15:17:24.4|Debug|Api|[GET] /api/v1/language: 200.OK (1166 ms)
+2025-09-02 15:17:24.4|Debug|Api|[GET] /api/v1/qualityprofile: 200.OK (1176 ms)
+2025-09-02 15:17:24.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:24.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:25.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:25.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:25.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:25.6|Debug|Api|[GET] /api/v1/indexerFlag: 200.OK (948 ms)
+2025-09-02 15:17:25.7|Debug|Api|[GET] /api/v1/importlist: 200.OK (1201 ms)
+2025-09-02 15:17:25.7|Debug|Api|[GET] /api/v1/config/ui: 200.OK (677 ms)
+2025-09-02 15:17:25.7|Debug|Api|[GET] /api/v1/system/status: 200.OK (723 ms)
+2025-09-02 15:17:26.1|Debug|Api|[GET] /api/v1/localization: 200.OK (582 ms)
+2025-09-02 15:17:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 15:17:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:26.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:26.4|Debug|Api|[GET] /api/v1/health: 200.OK (93 ms)
+2025-09-02 15:17:26.4|Debug|Api|[GET] /api/v1/queue/status: 200.OK (148 ms)
+2025-09-02 15:17:26.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2025-09-02 15:17:26.5|Debug|Api|[GET] /api/v1/config/host: 200.OK (259 ms)
+2025-09-02 15:17:34.4|Debug|NotificationFactory|Initializing Providers. Count 25
+2025-09-02 15:17:38.1|Debug|IndexerFactory|Initializing Providers. Count 10
+2025-09-02 15:17:38.4|Debug|ImportListFactory|Initializing Providers. Count 10
+2025-09-02 15:17:38.4|Debug|MetadataFactory|Initializing Providers. Count 3
+2025-09-02 15:17:38.5|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2025-09-02 15:17:38.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 15:17:38.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 15:17:38.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2025-09-02 15:17:38.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 15:17:40.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:17:40.1|Debug|Api|[GET] /api/v1/health: 200.OK (87 ms)
+2025-09-02 15:18:06.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:18:06.7|Debug|Api|[GET] /api/v1/command: 200.OK (58 ms)
+2025-09-02 15:18:07.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:18:07.5|Debug|Api|[GET] /api/v1/command: 200.OK (62 ms)
+2025-09-02 15:19:37.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:19:37.2|Debug|Api|[GET] /api/v1/command: 200.OK (170 ms)
+2025-09-02 15:19:38.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:19:38.0|Debug|Api|[GET] /api/v1/command: 200.OK (14 ms)
+2025-09-02 15:21:08.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:21:08.1|Debug|Api|[GET] /api/v1/command: 200.OK (65 ms)
+2025-09-02 15:21:08.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:21:08.4|Debug|Api|[GET] /api/v1/command: 200.OK (16 ms)
+2025-09-02 15:21:37.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:21:38.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:21:38.2|Debug|Api|[GET] /api/v1/command: 200.OK (16 ms)
+2025-09-02 15:21:38.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:21:38.7|Debug|Api|[GET] /api/v1/command: 200.OK (10 ms)
+2025-09-02 15:22:31.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:22:31.5|Debug|Api|[GET] /api/v1/indexer/schema: 200.OK (135 ms)
+2025-09-02 15:22:31.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:22:31.8|Debug|Newznab|Downloading Feed http://prowlarr:9696/0/api?t=music&cat=3000,3010,3030,3040,3050,3060&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-02 15:22:31.8|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (280 ms)
+2025-09-02 15:22:35.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:22:35.1|Debug|Newznab|Downloading Feed http://prowlarr:9696/0/api?t=music&cat=3000,3010,3030,3040,3050,3060&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-02 15:22:35.1|Debug|Api|[POST] /api/v1/indexer/test: 200.OK (35 ms)
+2025-09-02 15:22:36.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:22:36.7|Debug|Api|[GET] /api/v1/indexer: 200.OK (193 ms)
+2025-09-02 15:22:39.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:22:39.4|Debug|Api|[GET] /api/v1/command: 200.OK (57 ms)
+2025-09-02 15:22:40.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:22:40.0|Debug|Api|[GET] /api/v1/command: 200.OK (24 ms)
+2025-09-02 15:24:10.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:24:10.5|Debug|Api|[GET] /api/v1/command: 200.OK (330 ms)
+2025-09-02 15:24:10.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:24:10.7|Debug|Api|[GET] /api/v1/command: 200.OK (119 ms)
+2025-09-02 15:25:40.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:25:40.7|Debug|Api|[GET] /api/v1/command: 200.OK (69 ms)
+2025-09-02 15:25:40.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:25:40.9|Debug|Api|[GET] /api/v1/command: 200.OK (11 ms)
+2025-09-02 15:26:33.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:26:33.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:26:33.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:26:33.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:26:34.0|Debug|Api|[GET] /api/v1/rootFolder: 200.OK (230 ms)
+2025-09-02 15:26:34.3|Debug|Api|[GET] /api/v1/config/naming: 200.OK (463 ms)
+2025-09-02 15:26:34.3|Debug|Api|[GET] /api/v1/config/naming/examples: 200.OK (402 ms)
+2025-09-02 15:26:34.3|Debug|Api|[GET] /api/v1/config/mediamanagement: 200.OK (400 ms)
+2025-09-02 15:26:39.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:26:39.3|Debug|Api|[GET] /api/v1/filesystem?path=&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (81 ms)
+2025-09-02 15:26:40.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:26:40.5|Debug|Api|[GET] /api/v1/command: 200.OK (16 ms)
+2025-09-02 15:26:40.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:26:41.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:26:41.7|Debug|Api|[GET] /api/v1/command: 200.OK (28 ms)
+2025-09-02 15:27:12.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:12.1|Debug|Api|[GET] /api/v1/command: 200.OK (108 ms)
+2025-09-02 15:27:12.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:12.3|Debug|Api|[GET] /api/v1/command: 200.OK (122 ms)
+2025-09-02 15:27:25.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:25.6|Debug|Api|[GET] /api/v1/filesystem?path=t&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (36 ms)
+2025-09-02 15:27:25.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:25.9|Debug|Api|[GET] /api/v1/filesystem?path=tv&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (12 ms)
+2025-09-02 15:27:27.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:27.7|Debug|Api|[GET] /api/v1/filesystem?path=t&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (20 ms)
+2025-09-02 15:27:29.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:29.6|Debug|Api|[GET] /api/v1/filesystem?path=l&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (25 ms)
+2025-09-02 15:27:29.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:29.9|Debug|Api|[GET] /api/v1/filesystem?path=li&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (66 ms)
+2025-09-02 15:27:30.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:30.1|Debug|Api|[GET] /api/v1/filesystem?path=lib&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (49 ms)
+2025-09-02 15:27:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:30.2|Debug|Api|[GET] /api/v1/filesystem?path=lir&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (12 ms)
+2025-09-02 15:27:30.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:30.6|Debug|Api|[GET] /api/v1/filesystem?path=lirt&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (326 ms)
+2025-09-02 15:27:31.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:31.8|Debug|Api|[GET] /api/v1/filesystem?path=lir&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (32 ms)
+2025-09-02 15:27:31.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:31.9|Debug|Api|[GET] /api/v1/filesystem?path=li&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (12 ms)
+2025-09-02 15:27:33.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:33.5|Debug|Api|[GET] /api/v1/filesystem?path=lib&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (32 ms)
+2025-09-02 15:27:33.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:33.6|Debug|Api|[GET] /api/v1/filesystem?path=libr&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (82 ms)
+2025-09-02 15:27:33.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:33.9|Debug|Api|[GET] /api/v1/filesystem?path=libra&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (230 ms)
+2025-09-02 15:27:51.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:51.5|Debug|Api|[GET] /api/v1/filesystem?path=m&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (10 ms)
+2025-09-02 15:27:51.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:51.7|Debug|Api|[GET] /api/v1/filesystem?path=mu&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (27 ms)
+2025-09-02 15:27:51.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:51.9|Debug|Api|[GET] /api/v1/filesystem?path=mus&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (67 ms)
+2025-09-02 15:27:54.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:54.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:54.8|Debug|Api|[GET] /api/v1/filesystem?path=mu&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (511 ms)
+2025-09-02 15:27:54.8|Debug|Api|[GET] /api/v1/filesystem?path=m&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (368 ms)
+2025-09-02 15:27:57.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:27:57.1|Debug|Api|[GET] /api/v1/filesystem?path=m&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (118 ms)
+2025-09-02 15:28:05.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:06.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (703 ms)
+2025-09-02 15:28:28.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:28.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:28.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:28.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:28.2|Debug|Api|[GET] /api/v1/rootFolder: 200.OK (81 ms)
+2025-09-02 15:28:28.4|Debug|Api|[GET] /api/v1/config/naming: 200.OK (275 ms)
+2025-09-02 15:28:28.6|Debug|Api|[GET] /api/v1/config/naming/examples?renameTracks=false&replaceIllegalCharacters=true&colonReplacementFormat=4&standardTrackFormat=%7BAlbum%20Title%7D%20(%7BRelease%20Year%7D)%2F%7BArtist%20Name%7D%20-%20%7BAlbum%20Title%7D%20-%20%7Btrack%3A00%7D%20-%20%7BTrack%20Title%7D&multiDiscTrackFormat=%7BAlbum%20Title%7D%20(%7BRelease%20Year%7D)%2F%7BMedium%20Format%7D%20%7Bmedium%3A00%7D%2F%7BArtist%20Name%7D%20-%20%7BAlbum%20Title%7D%20-%20%7Btrack%3A00%7D%20-%20%7BTrack%20Title%7D&artistFolderFormat=%7BArtist%20Name%7D&includeArtistName=false&includeAlbumTitle=false&includeQuality=false&replaceSpaces=false&id=(removed) 200.OK (421 ms)
+2025-09-02 15:28:28.8|Debug|Api|[GET] /api/v1/config/mediamanagement: 200.OK (571 ms)
+2025-09-02 15:28:32.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:32.4|Debug|Api|[GET] /api/v1/filesystem?path=&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (38 ms)
+2025-09-02 15:28:39.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:39.8|Debug|Api|[GET] /api/v1/filesystem?path=%2Fmusic%2F&allowFoldersWithoutTrailingSlashes=true&includeFiles=false: 200.OK (12 ms)
+2025-09-02 15:28:42.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:42.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:42.8|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (384 ms)
+2025-09-02 15:28:42.8|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- Name: 'Name' must not be empty.
+
+[v2.13.3.4711] FluentValidation.ValidationException: Validation failed: 
+ -- Name: 'Name' must not be empty.
+   at Lidarr.Http.REST.RestController`1.ValidateResource(TResource resource, Boolean skipValidate, Boolean skipSharedValidate) in ./Lidarr.Http/REST/RestController.cs:line 122
+   at Lidarr.Http.REST.RestController`1.OnActionExecuting(ActionExecutingContext context) in ./Lidarr.Http/REST/RestController.cs:line 67
+   at Microsoft.AspNetCore.Mvc.Controller.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-09-02 15:28:43.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:43.4|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- Name: 'Name' must not be empty.
+2025-09-02 15:28:43.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (388 ms)
+2025-09-02 15:28:43.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:43.5|Debug|Api|[POST] /api/v1/rootFolder: 400.BadRequest (924 ms)
+2025-09-02 15:28:43.5|Debug|Api|[GET] /api/v1/command: 200.OK (26 ms)
+2025-09-02 15:28:44.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:44.5|Debug|Api|[GET] /api/v1/command: 200.OK (177 ms)
+2025-09-02 15:28:48.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:49.1|Info|RootFolderWatchingService|Watching directory /music/
+2025-09-02 15:28:49.1|Debug|DiskProvider|path: /music/
+2025-09-02 15:28:50.2|Debug|DiskProvider|path: /music/
+2025-09-02 15:28:50.4|Debug|DiskProvider|path: /music/
+2025-09-02 15:28:50.7|Debug|Api|[POST] /api/v1/rootFolder: 201.Created (2027 ms)
+2025-09-02 15:28:50.7|Info|DiskScanService|Scanning /music/
+2025-09-02 15:28:50.9|Debug|DiskScanService|Scanning '/music/' for music files
+2025-09-02 15:28:50.9|Debug|DiskScanService|0 audio files were found in /music/
+2025-09-02 15:28:51.0|Warn|DiskScanService|Scan folder /music/ is empty.
+2025-09-02 15:28:51.2|Debug|ImportDecisionMaker|Analyzing 0/0 files.
+2025-09-02 15:28:51.4|Debug|IdentificationService|Starting track identification
+2025-09-02 15:28:51.5|Info|TrackGroupingService|Grouping 0 tracks
+2025-09-02 15:28:51.5|Debug|IdentificationService|Sorted 0 tracks into 0 releases in 56ms
+2025-09-02 15:28:51.6|Debug|IdentificationService|Track identification for 0 tracks took 243ms
+2025-09-02 15:28:51.7|Debug|DiskScanService|Import decisions complete [00:00:00.4356239]
+2025-09-02 15:28:51.9|Info|ImportApprovedTracks|Importing 0 tracks
+2025-09-02 15:28:51.9|Debug|ImportApprovedTracks|Importing 0 files. replaceExisting: False
+2025-09-02 15:28:52.0|Debug|ImportApprovedTracks|Inserted new trackfiles in 1ms
+2025-09-02 15:28:52.2|Debug|ImportApprovedTracks|TrackFileIds updated, total 245ms
+2025-09-02 15:28:52.4|Debug|DiskScanService|Inserted 0 new unmatched trackfiles
+2025-09-02 15:28:52.4|Debug|DiskScanService|Updated info for 0 known files
+2025-09-02 15:28:52.6|Debug|DiskScanService|Track import complete for:
+/music/ [00:00:00.6723609]
+2025-09-02 15:28:53.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:53.5|Debug|Api|[GET] /api/v1/command: 200.OK (57 ms)
+2025-09-02 15:28:55.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:28:55.4|Debug|Api|[GET] /api/v1/health: 200.OK (10 ms)
+2025-09-02 15:29:42.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:29:42.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:29:42.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:29:42.2|Debug|Api|[GET] /api/v1/downloadclient: 200.OK (153 ms)
+2025-09-02 15:29:42.4|Debug|Api|[GET] /api/v1/config/downloadclient: 200.OK (318 ms)
+2025-09-02 15:29:42.4|Debug|Api|[GET] /api/v1/remotepathmapping: 200.OK (335 ms)
+2025-09-02 15:29:43.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:29:43.4|Debug|Api|[GET] /api/v1/downloadclient/schema: 200.OK (105 ms)
+2025-09-02 15:29:54.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:29:54.8|Debug|QBittorrentProxyV2|qBittorrent authentication succeeded.
+2025-09-02 15:29:55.5|Debug|Api|[POST] /api/v1/downloadclient/test: 200.OK (911 ms)
+2025-09-02 15:29:56.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:29:57.4|Debug|Api|[POST] /api/v1/downloadclient: 201.Created (979 ms)
+2025-09-02 15:30:02.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:30:02.5|Debug|Api|[GET] /api/v1/health: 200.OK (29 ms)
+2025-09-02 15:30:12.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:30:12.5|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (103 ms)
+2025-09-02 15:30:13.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:30:13.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (157 ms)
+2025-09-02 15:30:13.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:30:14.2|Debug|Api|[GET] /api/v1/command: 200.OK (316 ms)
+2025-09-02 15:30:14.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:30:14.4|Debug|Api|[GET] /api/v1/command: 200.OK (87 ms)
+2025-09-02 15:31:42.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:31:44.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:31:44.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (9 ms)
+2025-09-02 15:31:44.9|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:31:44.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:31:46.1|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:31:46.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 15:31:46.2|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-02 15:31:47.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:31:48.0|Debug|Api|[GET] /api/v1/command: 200.OK (414 ms)
+2025-09-02 15:31:48.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:31:48.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:31:48.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (363 ms)
+2025-09-02 15:31:48.4|Debug|Api|[GET] /api/v1/command: 200.OK (173 ms)
+2025-09-02 15:31:49.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:31:49.2|Debug|Api|[GET] /api/v1/command: 200.OK (16 ms)
+2025-09-02 15:31:49.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:31:49.7|Debug|Api|[GET] /api/v1/command: 200.OK (219 ms)
+2025-09-02 15:31:49.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:31:49.9|Debug|Api|[GET] /api/v1/command: 200.OK (103 ms)
+2025-09-02 15:33:14.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:33:15.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (408 ms)
+2025-09-02 15:33:15.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:33:16.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (169 ms)
+2025-09-02 15:33:16.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:33:16.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:33:16.2|Debug|Api|[GET] /api/v1/command: 200.OK (93 ms)
+2025-09-02 15:33:16.2|Debug|Api|[GET] /api/v1/health: 200.OK (90 ms)
+2025-09-02 15:33:16.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:33:16.5|Debug|Api|[GET] /api/v1/command: 200.OK (38 ms)
+2025-09-02 15:34:45.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:34:45.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (50 ms)
+2025-09-02 15:34:45.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:34:46.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (208 ms)
+2025-09-02 15:34:46.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:34:46.4|Debug|Api|[GET] /api/v1/command: 200.OK (142 ms)
+2025-09-02 15:34:46.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:34:46.5|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-09-02 15:36:15.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:36:15.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (145 ms)
+2025-09-02 15:36:16.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:36:16.6|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (175 ms)
+2025-09-02 15:36:16.6|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:36:16.7|Debug|Api|[GET] /api/v1/command: 200.OK (144 ms)
+2025-09-02 15:36:16.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:36:17.0|Debug|Api|[GET] /api/v1/command: 200.OK (181 ms)
+2025-09-02 15:37:15.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:37:17.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:37:17.6|Debug|Api|[GET] /api/v1/command: 200.OK (72 ms)
+2025-09-02 15:37:17.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:37:17.8|Debug|Api|[GET] /api/v1/command: 200.OK (6 ms)
+2025-09-02 15:37:47.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:37:47.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (60 ms)
+2025-09-02 15:37:48.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:37:48.2|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 15:37:48.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:37:48.6|Debug|Api|[GET] /api/v1/command: 200.OK (126 ms)
+2025-09-02 15:37:48.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:37:48.9|Debug|Api|[GET] /api/v1/command: 200.OK (209 ms)
+2025-09-02 15:39:17.4|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:39:17.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (12 ms)
+2025-09-02 15:39:18.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:39:18.6|Debug|Api|[GET] /api/v1/command: 200.OK (135 ms)
+2025-09-02 15:39:18.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:39:19.0|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (68 ms)
+2025-09-02 15:39:19.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:39:19.4|Debug|Api|[GET] /api/v1/command: 200.OK (148 ms)
+2025-09-02 15:40:48.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:40:48.2|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (13 ms)
+2025-09-02 15:40:48.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:40:48.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 15:40:49.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:40:49.1|Debug|Api|[GET] /api/v1/command: 200.OK (10 ms)
+2025-09-02 15:40:49.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:40:49.8|Debug|Api|[GET] /api/v1/command: 200.OK (11 ms)
+2025-09-02 15:42:18.7|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-02 15:42:20.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:42:20.9|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (37 ms)
+2025-09-02 15:42:21.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:42:21.1|Debug|Api|[GET] /api/v1/command: 200.OK (16 ms)
+2025-09-02 15:42:21.8|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:42:22.1|Debug|Api|[GET] /api/v1/command: 200.OK (305 ms)
+2025-09-02 15:42:22.1|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:42:22.3|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (144 ms)
+2025-09-02 15:42:22.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:42:22.6|Debug|Api|[GET] /api/v1/command: 200.OK (319 ms)
+2025-09-02 15:42:23.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:42:23.1|Debug|Api|[GET] /api/v1/command: 200.OK (34 ms)
+2025-09-02 15:43:50.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:43:50.7|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (11 ms)
+2025-09-02 15:43:51.7|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:43:52.0|Debug|Api|[GET] /api/v1/command: 200.OK (251 ms)
+2025-09-02 15:43:52.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:43:52.2|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (165 ms)
+2025-09-02 15:43:52.3|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:43:52.4|Debug|Api|[GET] /api/v1/command: 200.OK (126 ms)
+2025-09-02 15:45:21.0|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:45:21.1|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (138 ms)
+2025-09-02 15:45:22.2|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:45:22.4|Debug|Api|[GET] /api/v1/queue/details?all=true: 200.OK (157 ms)
+2025-09-02 15:45:22.5|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:45:22.5|Debug|Api|[GET] /api/v1/command: 200.OK (9 ms)
+2025-09-02 15:45:22.9|Debug|Lidarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-02 15:45:23.0|Debug|Api|[GET] /api/v1/command: 200.OK (115 ms)

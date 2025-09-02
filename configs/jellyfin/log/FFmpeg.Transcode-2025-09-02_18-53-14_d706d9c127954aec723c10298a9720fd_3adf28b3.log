@@ -1,0 +1,431 @@
+{"Protocol":0,"Id":"d706d9c127954aec723c10298a9720fd","Path":"/media/library/movies/05-Star.Wars.4K77.2160p.UHD.No-DNR.35mm.x265-v1.4.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":78616603692,"Name":"05-Star.Wars.4K77.2160p.UHD.No-DNR.35mm.x265-v1.4","IsRemote":false,"ETag":"543b6ca4c9f21c87d81daf7a932499c0","RunTimeTicks":73103360000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"hevc","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"4K HEVC SDR","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":86033368,"BitDepth":10,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":2160,"Width":3840,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"ReferenceFrameRate":23.976025,"Profile":"Main 10","Type":1,"AspectRatio":"16:9","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p10le","Level":153,"IsAnamorphic":false},{"Codec":"dts","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 DTS-HD-MA (1977 35mm stereo mix 2018)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 DTS-HD-MA (1977 35mm stereo mix 2018) - English - DTS-HD MA - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":null,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"DTS-HD MA","Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"dts","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"5.1 DTS-HD-MA (1977 70mm six track mix 2018)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"5.1 DTS-HD-MA (1977 70mm six track mix 2018) - English - DTS-HD MA","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":null,"BitDepth":24,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"DTS-HD MA","Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"dts","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"1.0 DTS-HD-MA (1977 35mm mono mix)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"1.0 DTS-HD-MA (1977 35mm mono mix) - English - DTS-HD MA","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"mono","BitRate":null,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":1,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"DTS-HD MA","Type":0,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"ger","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (1978 dub reconstruction)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (1978 dub reconstruction) - Ger - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":4,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"fre","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (1977 dub)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (1977 dub) - Fre - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":5,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (1977 Castilian dub)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (1977 Castilian dub) - Spanish - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":6,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"1.0 Dolby Digital (1980 Latino dub)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"1.0 Dolby Digital (1980 Latino dub) - Spanish - Mono","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"mono","BitRate":96000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":1,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":7,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"ita","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (1977 dub)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (1977 dub) - Italian - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":8,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"pol","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (1995 Voiceover)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (1995 Voiceover) - Polish - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":9,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"cze","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (1992 dub)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (1992 dub) - Cze - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":10,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"3.0 Dolby Digital (1993 LD Audio Commentary - 2018)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"3.0 Dolby Digital (1993 LD Audio Commentary - 2018) - English","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"3.0","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":3,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":11,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (Isolated Score 2018)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (Isolated Score 2018) - English - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":12,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (Commentary For Visually Impaired)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (Commentary For Visually Impaired) - English - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":13,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital 1985 Stereo Remix English","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital 1985 Stereo Remix English","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":14,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital 1993 Stereo Remix English","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital 1993 Stereo Remix English","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":15,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2.0 Dolby Digital (1977 35mm stereo mix Dolby A)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2.0 Dolby Digital (1977 35mm stereo mix Dolby A) - English","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":320000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":16,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":89329368,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G  -i file:"/media/library/movies/05-Star.Wars.4K77.2160p.UHD.No-DNR.35mm.x265-v1.4.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 3460710 -bufsize 6921420 -profile:v:0 high -level 51 -x264opts:0 subme=0:me_range=16:rc_lookahead=10:me=hex:open_gop=0 -force_key_frames:0 "expr:gte(t,n_forced*3)" -sc_threshold:v:0 0 -vf "setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,1280)/2)*2:trunc(ow/a/2)*2,format=yuv420p" -codec:a:0 libfdk_aac -ac 2 -ab 256000 -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type fmp4 -hls_fmp4_init_filename "d09d9e3193eabcc6c998838e91e685a0-1.mp4" -start_number 0 -hls_segment_filename "/cache/transcodes/d09d9e3193eabcc6c998838e91e685a0%d.mp4" -hls_playlist_type vod -hls_list_size 0 -y "/cache/transcodes/d09d9e3193eabcc6c998838e91e685a0.m3u8"
+
+
+ffmpeg version 7.0.2-Jellyfin Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 12 (Debian 12.2.0-14)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-ptx-compression --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vaapi --enable-amf --enable-libvpl --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+  libpostproc    58.  1.100 / 58.  1.100
+[matroska,webm @ 0x64a3a2a77cc0] 0x00 at pos 78616596850 (0x124dea1172) invalid as first byte of an EBML number
+Input #0, matroska,webm, from 'file:/media/library/movies/05-Star.Wars.4K77.2160p.UHD.No-DNR.35mm.x265-v1.4.mkv':
+  Metadata:
+    title           : Star Wars
+    encoder         : libebml v1.3.6 + libmatroska v1.4.9
+    creation_time   : 2019-01-24T19:29:39.000000Z
+  Duration: 02:01:50.34, start: 0.000000, bitrate: 86033 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 21.188000
+      Metadata:
+        title           : 
+    Chapter #0:1: start 21.188000, end 114.617000
+      Metadata:
+        title           : 
+    Chapter #0:2: start 114.617000, end 293.335000
+      Metadata:
+        title           : 
+    Chapter #0:3: start 293.335000, end 448.828000
+      Metadata:
+        title           : 
+    Chapter #0:4: start 448.828000, end 535.217000
+      Metadata:
+        title           : 
+    Chapter #0:5: start 535.217000, end 681.701000
+      Metadata:
+        title           : 
+    Chapter #0:6: start 681.701000, end 923.618000
+      Metadata:
+        title           : 
+    Chapter #0:7: start 923.618000, end 1159.862000
+      Metadata:
+        title           : 
+    Chapter #0:8: start 1159.862000, end 1393.301978
+      Metadata:
+        title           : 
+    Chapter #0:9: start 1393.301978, end 1512.225000
+      Metadata:
+        title           : 
+    Chapter #0:10: start 1512.225000, end 1645.196000
+      Metadata:
+        title           : 
+    Chapter #0:11: start 1645.196000, end 1732.319000
+      Metadata:
+        title           : 
+    Chapter #0:12: start 1732.319000, end 1933.827000
+      Metadata:
+        title           : 
+    Chapter #0:13: start 1933.827000, end 2072.637000
+      Metadata:
+        title           : 
+    Chapter #0:14: start 2072.637000, end 2193.762000
+      Metadata:
+        title           : 
+    Chapter #0:15: start 2193.762000, end 2325.265000
+      Metadata:
+        title           : 
+    Chapter #0:16: start 2325.265000, end 2480.893000
+      Metadata:
+        title           : 
+    Chapter #0:17: start 2480.893000, end 2530.444000
+      Metadata:
+        title           : 
+    Chapter #0:18: start 2530.444000, end 2639.756000
+      Metadata:
+        title           : 
+    Chapter #0:19: start 2639.756000, end 2820.743000
+      Metadata:
+        title           : 
+    Chapter #0:20: start 2820.743000, end 2946.038000
+      Metadata:
+        title           : 
+    Chapter #0:21: start 2946.038000, end 3021.951000
+      Metadata:
+        title           : 
+    Chapter #0:22: start 3021.951000, end 3100.699000
+      Metadata:
+        title           : 
+    Chapter #0:23: start 3100.699000, end 3108.541000
+      Metadata:
+        title           : 
+    Chapter #0:24: start 3108.541000, end 3270.875000
+      Metadata:
+        title           : 
+    Chapter #0:25: start 3270.875000, end 3403.846000
+      Metadata:
+        title           : 
+    Chapter #0:26: start 3403.846000, end 3641.791000
+      Metadata:
+        title           : 
+    Chapter #0:27: start 3641.791000, end 3827.450000
+      Metadata:
+        title           : 
+    Chapter #0:28: start 3827.450000, end 3952.946000
+      Metadata:
+        title           : 
+    Chapter #0:29: start 3952.946000, end 4203.338000
+      Metadata:
+        title           : 
+    Chapter #0:30: start 4203.338000, end 4303.640978
+      Metadata:
+        title           : 
+    Chapter #0:31: start 4303.640978, end 4484.795000
+      Metadata:
+        title           : 
+    Chapter #0:32: start 4484.795000, end 4600.414000
+      Metadata:
+        title           : 
+    Chapter #0:33: start 4600.414000, end 4740.393000
+      Metadata:
+        title           : 
+    Chapter #0:34: start 4740.393000, end 4951.277000
+      Metadata:
+        title           : 
+    Chapter #0:35: start 4951.277000, end 5073.103000
+      Metadata:
+        title           : 
+    Chapter #0:36: start 5073.103000, end 5247.250000
+      Metadata:
+        title           : 
+    Chapter #0:37: start 5247.250000, end 5479.189000
+      Metadata:
+        title           : 
+    Chapter #0:38: start 5479.189000, end 5650.999000
+      Metadata:
+        title           : 
+    Chapter #0:39: start 5650.999000, end 5737.789000
+      Metadata:
+        title           : 
+    Chapter #0:40: start 5737.789000, end 5828.182000
+      Metadata:
+        title           : 
+    Chapter #0:41: start 5828.182000, end 5935.493000
+      Metadata:
+        title           : 
+    Chapter #0:42: start 5935.493000, end 6008.402000
+      Metadata:
+        title           : 
+    Chapter #0:43: start 6008.402000, end 6127.892000
+      Metadata:
+        title           : 
+    Chapter #0:44: start 6127.892000, end 6408.148000
+      Metadata:
+        title           : 
+    Chapter #0:45: start 6408.148000, end 6744.195000
+      Metadata:
+        title           : 
+    Chapter #0:46: start 6744.195000, end 6892.648000
+      Metadata:
+        title           : 
+    Chapter #0:47: start 6892.648000, end 6934.191000
+      Metadata:
+        title           : 
+    Chapter #0:48: start 6934.191000, end 7039.800000
+      Metadata:
+        title           : 
+    Chapter #0:49: start 7039.800000, end 7310.336000
+      Metadata:
+        title           : 
+  Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+  Stream #0:1(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, stereo, s16p (default)
+      Metadata:
+        title           : 2.0 DTS-HD-MA (1977 35mm stereo mix 2018)
+  Stream #0:2(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 5.1(side), s32p (24 bit)
+      Metadata:
+        title           : 5.1 DTS-HD-MA (1977 70mm six track mix 2018)
+  Stream #0:3(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, mono, s16p
+      Metadata:
+        title           : 1.0 DTS-HD-MA (1977 35mm mono mix)
+  Stream #0:4(ger): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (1978 dub reconstruction)
+  Stream #0:5(fre): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (1977 dub)
+  Stream #0:6(spa): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (1977 Castilian dub)
+  Stream #0:7(spa): Audio: ac3, 48000 Hz, mono, fltp, 96 kb/s
+      Metadata:
+        title           : 1.0 Dolby Digital (1980 Latino dub)
+  Stream #0:8(ita): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (1977 dub)
+  Stream #0:9(pol): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (1995 Voiceover)
+  Stream #0:10(cze): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (1992 dub)
+  Stream #0:11(eng): Audio: ac3, 48000 Hz, 3.0, fltp, 384 kb/s
+      Metadata:
+        title           : 3.0 Dolby Digital (1993 LD Audio Commentary - 2018)
+  Stream #0:12(eng): Audio: ac3, 48000 Hz, stereo, fltp, 384 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (Isolated Score 2018)
+  Stream #0:13(eng): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (Commentary For Visually Impaired)
+  Stream #0:14(eng): Audio: ac3, 48000 Hz, stereo, fltp, 384 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital 1985 Stereo Remix English
+  Stream #0:15(eng): Audio: ac3, 48000 Hz, stereo, fltp, 384 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital 1993 Stereo Remix English
+  Stream #0:16(eng): Audio: ac3, 48000 Hz, stereo, fltp, 320 kb/s
+      Metadata:
+        title           : 2.0 Dolby Digital (1977 35mm stereo mix Dolby A)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (dts (dca) -> aac (libfdk_aac))
+Press [q] to stop, [?] for help
+[libx264 @ 0x64a3a2b33580] using SAR=1/1
+[libx264 @ 0x64a3a2b33580] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x64a3a2b33580] profile High, level 5.1, 4:2:0, 8-bit
+[libx264 @ 0x64a3a2b33580] 264 - core 164 r3095 baee400 - H.264/MPEG-4 AVC codec - Copyleft 2003-2022 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=23 scenecut=0 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 vbv_maxrate=3460 vbv_bufsize=6921 crf_max=0.0 nal_hrd=none filler=0 ip_ratio=1.40 aq=1:1.00
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a0-1.mp4' for writing
+Output #0, hls, to '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a0.m3u8':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: h264, yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 24k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 3460000/0/0 buffer size: 6921000 vbv_delay: N/A
+  Stream #0:1: Audio: aac, 48000 Hz, stereo, s16, 256 kb/s (default)
+      Metadata:
+        encoder         : Lavc61.3.100 libfdk_aac
+frame=    9 fps=9.0 q=28.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+frame=   62 fps= 41 q=28.0 size=N/A time=00:00:02.25 bitrate=N/A speed=1.49x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a00.mp4' for writing
+frame=   96 fps= 48 q=28.0 size=N/A time=00:00:03.62 bitrate=N/A speed=1.81x    
+frame=  119 fps= 47 q=28.0 size=N/A time=00:00:04.58 bitrate=N/A speed=1.83x    
+frame=  141 fps= 47 q=28.0 size=N/A time=00:00:05.50 bitrate=N/A speed=1.83x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a01.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 284744 is out of range
+frame=  163 fps= 46 q=28.0 size=N/A time=00:00:06.42 bitrate=N/A speed=1.83x    
+frame=  186 fps= 46 q=28.0 size=N/A time=00:00:07.38 bitrate=N/A speed=1.84x    
+frame=  209 fps= 46 q=28.0 size=N/A time=00:00:08.34 bitrate=N/A speed=1.85x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a02.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 429080 is out of range
+frame=  244 fps= 49 q=28.0 size=N/A time=00:00:09.80 bitrate=N/A speed=1.95x    
+frame=  283 fps= 51 q=28.0 size=N/A time=00:00:11.42 bitrate=N/A speed=2.07x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a03.mp4' for writing
+frame=  322 fps= 54 q=28.0 size=N/A time=00:00:13.05 bitrate=N/A speed=2.17x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a04.mp4' for writing
+frame=  362 fps= 56 q=28.0 size=N/A time=00:00:14.72 bitrate=N/A speed=2.26x    
+frame=  406 fps= 58 q=28.0 size=N/A time=00:00:16.55 bitrate=N/A speed=2.36x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a05.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 861176 is out of range
+frame=  455 fps= 61 q=28.0 size=N/A time=00:00:18.60 bitrate=N/A speed=2.47x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a06.mp4' for writing
+frame=  507 fps= 63 q=28.0 size=N/A time=00:00:20.77 bitrate=N/A speed=2.59x    
+frame=  552 fps= 65 q=28.0 size=N/A time=00:00:22.64 bitrate=N/A speed=2.66x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a07.mp4' for writing
+frame=  594 fps= 66 q=28.0 size=N/A time=00:00:24.39 bitrate=N/A speed= 2.7x    
+frame=  646 fps= 68 q=28.0 size=N/A time=00:00:26.60 bitrate=N/A speed=2.79x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a08.mp4' for writing
+frame=  686 fps= 68 q=28.0 size=N/A time=00:00:28.23 bitrate=N/A speed=2.82x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a09.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 1437608 is out of range
+frame=  723 fps= 69 q=28.0 size=N/A time=00:00:29.77 bitrate=N/A speed=2.83x    
+frame=  765 fps= 69 q=28.0 size=N/A time=00:00:31.53 bitrate=N/A speed=2.86x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a010.mp4' for writing
+frame=  809 fps= 70 q=28.0 size=N/A time=00:00:33.36 bitrate=N/A speed=2.89x    
+frame=  851 fps= 71 q=28.0 size=N/A time=00:00:35.11 bitrate=N/A speed=2.92x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a011.mp4' for writing
+frame=  894 fps= 71 q=28.0 size=N/A time=00:00:36.91 bitrate=N/A speed=2.95x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a012.mp4' for writing
+frame=  938 fps= 72 q=28.0 size=N/A time=00:00:38.74 bitrate=N/A speed=2.97x    
+frame=  977 fps= 72 q=28.0 size=N/A time=00:00:40.37 bitrate=N/A speed=2.98x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a013.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 2012136 is out of range
+frame= 1015 fps= 72 q=28.0 size=N/A time=00:00:41.95 bitrate=N/A speed=2.99x    
+frame= 1052 fps= 72 q=28.0 size=N/A time=00:00:43.50 bitrate=N/A speed=2.99x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a014.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 2156552 is out of range
+frame= 1090 fps= 73 q=28.0 size=N/A time=00:00:45.12 bitrate=N/A speed=   3x    
+frame= 1125 fps= 72 q=28.0 size=N/A time=00:00:46.54 bitrate=N/A speed=   3x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a015.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 2300888 is out of range
+frame= 1162 fps= 72 q=28.0 size=N/A time=00:00:48.08 bitrate=N/A speed=   3x    
+frame= 1198 fps= 72 q=28.0 size=N/A time=00:00:49.59 bitrate=N/A speed=   3x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a016.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 2445320 is out of range
+frame= 1237 fps= 73 q=28.0 size=N/A time=00:00:51.21 bitrate=N/A speed=3.01x    
+frame= 1277 fps= 73 q=28.0 size=N/A time=00:00:52.88 bitrate=N/A speed=3.01x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a017.mp4' for writing
+frame= 1314 fps= 73 q=28.0 size=N/A time=00:00:54.42 bitrate=N/A speed=3.02x    
+frame= 1349 fps= 73 q=28.0 size=N/A time=00:00:55.88 bitrate=N/A speed=3.01x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a018.mp4' for writing
+frame= 1386 fps= 73 q=28.0 size=N/A time=00:00:57.43 bitrate=N/A speed=3.02x    
+frame= 1419 fps= 73 q=28.0 size=N/A time=00:00:58.80 bitrate=N/A speed=3.01x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a019.mp4' for writing
+frame= 1449 fps= 72 q=28.0 size=N/A time=00:01:00.06 bitrate=N/A speed=   3x    
+frame= 1480 fps= 72 q=28.0 size=N/A time=00:01:01.35 bitrate=N/A speed=2.99x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a020.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 3021848 is out of range
+frame= 1515 fps= 72 q=28.0 size=N/A time=00:01:02.81 bitrate=N/A speed=2.98x    
+frame= 1550 fps= 72 q=28.0 size=N/A time=00:01:04.27 bitrate=N/A speed=2.98x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a021.mp4' for writing
+frame= 1584 fps= 72 q=28.0 size=N/A time=00:01:05.69 bitrate=N/A speed=2.98x    
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 3165192 is out of range
+frame= 1614 fps= 72 q=28.0 size=N/A time=00:01:06.94 bitrate=N/A speed=2.97x    
+frame= 1647 fps= 71 q=28.0 size=N/A time=00:01:08.31 bitrate=N/A speed=2.96x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a022.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 3309528 is out of range
+frame= 1683 fps= 71 q=28.0 size=N/A time=00:01:09.81 bitrate=N/A speed=2.96x    
+frame= 1717 fps= 71 q=25.0 size=N/A time=00:01:11.23 bitrate=N/A speed=2.96x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a023.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 3453992 is out of range
+frame= 1750 fps= 71 q=28.0 size=N/A time=00:01:12.61 bitrate=N/A speed=2.96x    
+frame= 1787 fps= 71 q=28.0 size=N/A time=00:01:14.15 bitrate=N/A speed=2.96x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a024.mp4' for writing
+frame= 1822 fps= 71 q=28.0 size=N/A time=00:01:15.61 bitrate=N/A speed=2.96x    
+frame= 1857 fps= 71 q=28.0 size=N/A time=00:01:17.07 bitrate=N/A speed=2.96x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a025.mp4' for writing
+frame= 1890 fps= 71 q=28.0 size=N/A time=00:01:18.45 bitrate=N/A speed=2.95x    
+frame= 1925 fps= 71 q=28.0 size=N/A time=00:01:19.91 bitrate=N/A speed=2.95x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a026.mp4' for writing
+frame= 1958 fps= 71 q=28.0 size=N/A time=00:01:21.28 bitrate=N/A speed=2.95x    
+frame= 1992 fps= 71 q=28.0 size=N/A time=00:01:22.70 bitrate=N/A speed=2.95x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a027.mp4' for writing
+frame= 2026 fps= 71 q=28.0 size=N/A time=00:01:24.12 bitrate=N/A speed=2.94x    
+frame= 2060 fps= 71 q=28.0 size=N/A time=00:01:25.54 bitrate=N/A speed=2.94x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a028.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -32 / dts: 4172760 is out of range
+frame= 2091 fps= 71 q=28.0 size=N/A time=00:01:26.83 bitrate=N/A speed=2.94x    
+frame= 2124 fps= 71 q=28.0 size=N/A time=00:01:28.21 bitrate=N/A speed=2.93x    
+frame= 2155 fps= 70 q=28.0 size=N/A time=00:01:29.50 bitrate=N/A speed=2.93x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a029.mp4' for writing
+frame= 2185 fps= 70 q=28.0 size=N/A time=00:01:30.75 bitrate=N/A speed=2.92x    
+frame= 2214 fps= 70 q=28.0 size=N/A time=00:01:31.96 bitrate=N/A speed=2.91x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a030.mp4' for writing
+frame= 2247 fps= 70 q=28.0 size=N/A time=00:01:33.34 bitrate=N/A speed=2.91x    
+frame= 2284 fps= 70 q=28.0 size=N/A time=00:01:34.88 bitrate=N/A speed=2.91x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a031.mp4' for writing
+frame= 2320 fps= 70 q=28.0 size=N/A time=00:01:36.42 bitrate=N/A speed=2.91x    
+frame= 2358 fps= 70 q=28.0 size=N/A time=00:01:37.97 bitrate=N/A speed=2.92x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a032.mp4' for writing
+frame= 2396 fps= 70 q=28.0 size=N/A time=00:01:39.55 bitrate=N/A speed=2.92x    
+frame= 2439 fps= 71 q=28.0 size=N/A time=00:01:41.35 bitrate=N/A speed=2.93x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a033.mp4' for writing
+frame= 2480 fps= 71 q=28.0 size=N/A time=00:01:43.06 bitrate=N/A speed=2.94x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a034.mp4' for writing
+frame= 2523 fps= 71 q=28.0 size=N/A time=00:01:44.85 bitrate=N/A speed=2.95x    
+frame= 2567 fps= 71 q=28.0 size=N/A time=00:01:46.68 bitrate=N/A speed=2.96x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a035.mp4' for writing
+frame= 2612 fps= 71 q=28.0 size=N/A time=00:01:48.56 bitrate=N/A speed=2.97x    
+frame= 2656 fps= 72 q=28.0 size=N/A time=00:01:50.40 bitrate=N/A speed=2.98x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a036.mp4' for writing
+frame= 2707 fps= 72 q=28.0 size=N/A time=00:01:52.52 bitrate=N/A speed=2.99x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a037.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 5470200 is out of range
+frame= 2754 fps= 72 q=28.0 size=N/A time=00:01:54.48 bitrate=N/A speed=   3x    
+frame= 2800 fps= 73 q=28.0 size=N/A time=00:01:56.40 bitrate=N/A speed=3.02x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a038.mp4' for writing
+frame= 2844 fps= 73 q=28.0 size=N/A time=00:01:58.24 bitrate=N/A speed=3.02x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a039.mp4' for writing
+frame= 2883 fps= 73 q=28.0 size=N/A time=00:01:59.86 bitrate=N/A speed=3.03x    
+frame= 2921 fps= 73 q=28.0 size=N/A time=00:02:01.45 bitrate=N/A speed=3.03x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a040.mp4' for writing
+frame= 2957 fps= 73 q=28.0 size=N/A time=00:02:02.95 bitrate=N/A speed=3.03x    
+frame= 2992 fps= 73 q=28.0 size=N/A time=00:02:04.41 bitrate=N/A speed=3.03x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a041.mp4' for writing
+frame= 3025 fps= 73 q=28.0 size=N/A time=00:02:05.79 bitrate=N/A speed=3.02x    
+frame= 3054 fps= 73 q=28.0 size=N/A time=00:02:07.00 bitrate=N/A speed=3.02x    
+frame= 3084 fps= 72 q=28.0 size=N/A time=00:02:08.25 bitrate=N/A speed=3.01x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a042.mp4' for writing
+frame= 3111 fps= 72 q=28.0 size=N/A time=00:02:09.37 bitrate=N/A speed=   3x    
+frame= 3142 fps= 72 q=28.0 size=N/A time=00:02:10.67 bitrate=N/A speed=   3x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a043.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 6332456 is out of range
+frame= 3172 fps= 72 q=28.0 size=N/A time=00:02:11.92 bitrate=N/A speed=2.99x    
+frame= 3201 fps= 72 q=28.0 size=N/A time=00:02:13.13 bitrate=N/A speed=2.98x    
+frame= 3228 fps= 72 q=28.0 size=N/A time=00:02:14.25 bitrate=N/A speed=2.98x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a044.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 6476840 is out of range
+frame= 3254 fps= 71 q=28.0 size=N/A time=00:02:15.34 bitrate=N/A speed=2.97x    
+frame= 3279 fps= 71 q=28.0 size=N/A time=00:02:16.38 bitrate=N/A speed=2.96x    
+frame= 3303 fps= 71 q=28.0 size=N/A time=00:02:17.38 bitrate=N/A speed=2.95x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a045.mp4' for writing
+frame= 3329 fps= 71 q=28.0 size=N/A time=00:02:18.47 bitrate=N/A speed=2.94x    
+frame= 3353 fps= 70 q=28.0 size=N/A time=00:02:19.47 bitrate=N/A speed=2.93x    
+frame= 3378 fps= 70 q=28.0 size=N/A time=00:02:20.51 bitrate=N/A speed=2.92x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a046.mp4' for writing
+frame= 3402 fps= 70 q=28.0 size=N/A time=00:02:21.51 bitrate=N/A speed=2.91x    
+frame= 3426 fps= 70 q=28.0 size=N/A time=00:02:22.51 bitrate=N/A speed= 2.9x    
+frame= 3453 fps= 70 q=28.0 size=N/A time=00:02:23.64 bitrate=N/A speed= 2.9x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a047.mp4' for writing
+[mp4 @ 0x7e68e86bf780] Packet duration: -16 / dts: 6908952 is out of range
+frame= 3476 fps= 69 q=28.0 size=N/A time=00:02:24.60 bitrate=N/A speed=2.89x    
+frame= 3502 fps= 69 q=28.0 size=N/A time=00:02:25.68 bitrate=N/A speed=2.88x    
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a048.mp4' for writing
+
+
+[q] command received. Exiting.
+
+[hls @ 0x64a3a2b3ce40] Opening '/cache/transcodes/d09d9e3193eabcc6c998838e91e685a049.mp4' for writing
+[out#0/hls @ 0x64a3a2b74540] video:15674KiB audio:4661KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 3572 fps= 69 q=-1.0 Lsize=N/A time=00:02:28.60 bitrate=N/A speed=2.89x    
+[libx264 @ 0x64a3a2b33580] frame I:50    Avg QP:15.12  size: 43763
+[libx264 @ 0x64a3a2b33580] frame P:942   Avg QP:21.17  size: 10206
+[libx264 @ 0x64a3a2b33580] frame B:2580  Avg QP:25.10  size:  1646
+[libx264 @ 0x64a3a2b33580] consecutive B-frames:  2.3%  2.5%  4.8% 90.4%
+[libx264 @ 0x64a3a2b33580] mb I  I16..4: 58.4% 28.4% 13.1%
+[libx264 @ 0x64a3a2b33580] mb P  I16..4:  5.4%  2.9%  0.4%  P16..4: 11.9%  4.9%  2.5%  0.0%  0.0%    skip:71.9%
+[libx264 @ 0x64a3a2b33580] mb B  I16..4:  0.4%  0.3%  0.0%  B16..8:  5.3%  1.7%  0.1%  direct: 3.8%  skip:88.4%  L0:34.8% L1:38.2% BI:27.0%
+[libx264 @ 0x64a3a2b33580] 8x8 transform intra:32.5% inter:25.1%
+[libx264 @ 0x64a3a2b33580] coded y,uvDC,uvAC intra: 44.3% 24.7% 14.1% inter: 3.9% 3.8% 1.8%
+[libx264 @ 0x64a3a2b33580] i16 v,h,dc,p: 60% 25% 11%  3%
+[libx264 @ 0x64a3a2b33580] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  7% 21% 27% 16%  6%  3%  7%  3%  9%
+[libx264 @ 0x64a3a2b33580] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 33% 14%  7%  6%  4%  7%  4%  8%
+[libx264 @ 0x64a3a2b33580] i8c dc,h,v,p: 66% 22%  9%  3%
+[libx264 @ 0x64a3a2b33580] Weighted P-Frames: Y:6.8% UV:3.5%
+[libx264 @ 0x64a3a2b33580] kb/s:861.81

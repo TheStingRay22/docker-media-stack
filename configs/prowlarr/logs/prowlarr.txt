@@ -1252,3 +1252,315 @@
 2025-09-02 11:50:35.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2025-09-02 11:50:35.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
 2025-09-02 11:50:35.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 13:22:47.4|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 13:22:47.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:22:47.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:22:48.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:22:48.9|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:22:49.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:22:49.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:22:49.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:22:49.4|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:22:49.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2475361s
+2025-09-02 13:22:49.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:22:49.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2874296s
+2025-09-02 13:22:49.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:22:49.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:22:49.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:22:49.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:22:49.8|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:22:49.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1004954s
+2025-09-02 13:22:49.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:22:49.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1401703s
+2025-09-02 13:22:50.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 13:22:51.3|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 13:22:52.0|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 13:23:07.3|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 13:23:07.3|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 13:23:07.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 13:30:16.8|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 13:30:17.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:30:17.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:30:18.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:30:18.5|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:30:18.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:30:18.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:30:18.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:30:18.9|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:30:18.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2548316s
+2025-09-02 13:30:19.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:30:19.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2852178s
+2025-09-02 13:30:19.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:30:19.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:30:19.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:30:19.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:30:19.4|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:30:19.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2073331s
+2025-09-02 13:30:19.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:30:19.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2636734s
+2025-09-02 13:30:20.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 13:30:20.8|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 13:30:21.6|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 13:30:28.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 13:30:28.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 13:30:28.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 14:10:15.0|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 14:10:15.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:10:15.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:10:15.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:10:16.4|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:10:16.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:10:16.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:10:16.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:10:16.8|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:10:16.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2443719s
+2025-09-02 14:10:16.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:10:16.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2863428s
+2025-09-02 14:10:17.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:10:17.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:10:17.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:10:17.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:10:17.4|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:10:17.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1517695s
+2025-09-02 14:10:17.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:10:17.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.180206s
+2025-09-02 14:10:18.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 14:10:18.7|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 14:10:19.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:10:25.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:10:25.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:10:25.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 14:11:02.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 14:11:03.5|Info|ConsoleApp|Exiting main.
+2025-09-02 14:21:57.2|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 14:21:57.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:21:57.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:21:58.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:21:58.5|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:21:58.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:21:58.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:21:58.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:21:58.9|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:21:58.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.169731s
+2025-09-02 14:21:58.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:21:59.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2126303s
+2025-09-02 14:21:59.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:21:59.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:21:59.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:21:59.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:21:59.4|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:21:59.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0904987s
+2025-09-02 14:21:59.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:21:59.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1344627s
+2025-09-02 14:22:00.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 14:22:00.6|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 14:22:01.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:22:07.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:22:07.8|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:22:07.8|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 14:44:59.5|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 14:44:59.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:44:59.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:45:00.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:45:01.0|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:45:01.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:45:01.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:45:01.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:45:01.4|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:45:01.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2131864s
+2025-09-02 14:45:01.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:45:01.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2396251s
+2025-09-02 14:45:01.6|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:45:01.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:45:01.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:45:01.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:45:01.9|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:45:01.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2117572s
+2025-09-02 14:45:02.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:45:02.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2422235s
+2025-09-02 14:45:03.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 14:45:03.5|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 14:45:04.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:45:11.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:45:11.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:45:11.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 14:47:39.1|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 14:47:39.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:47:39.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:47:40.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:47:40.4|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:47:40.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:47:40.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:47:40.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:47:40.8|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:47:40.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2150591s
+2025-09-02 14:47:40.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:47:40.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.258848s
+2025-09-02 14:47:41.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:47:41.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:47:41.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:47:41.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:47:41.2|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:47:41.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1837151s
+2025-09-02 14:47:41.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:47:41.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2204989s
+2025-09-02 14:47:42.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 14:47:42.5|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 14:47:43.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:47:50.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:47:50.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:47:50.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 15:13:00.0|Warn|Sonarr|Unable to complete application test
+
+[v2.0.5.5160] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 239
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 98
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 239
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-09-02 15:13:00.1|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-09-02 15:15:14.1|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 15:15:15.3|Info|ConsoleApp|Exiting main.
+2025-09-02 15:15:24.8|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 15:15:25.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:15:25.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:15:25.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:15:26.5|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:15:26.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:15:26.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:15:27.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:15:27.6|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:15:27.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.620823s
+2025-09-02 15:15:27.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:15:27.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.6456567s
+2025-09-02 15:15:28.3|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:15:28.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:15:28.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:15:28.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:15:29.3|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:15:29.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.7419693s
+2025-09-02 15:15:29.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:15:29.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.8992141s
+2025-09-02 15:15:30.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 15:15:31.6|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 15:15:35.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 15:15:44.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 15:15:44.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 15:15:44.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 15:16:51.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 15:16:54.7|Info|ConsoleApp|Exiting main.
+2025-09-02 15:17:15.6|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.0.5.5160
+2025-09-02 15:17:16.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:17:16.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:17:16.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:17:17.8|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:17:18.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:17:18.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:17:18.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:17:19.3|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:17:19.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.6880986s
+2025-09-02 15:17:19.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:17:19.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.7181374s
+2025-09-02 15:17:19.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:17:19.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:17:19.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:17:19.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:17:20.6|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:17:20.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.8257159s
+2025-09-02 15:17:20.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:17:20.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.8535239s
+2025-09-02 15:17:21.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-09-02 15:17:22.1|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-09-02 15:17:26.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 15:17:40.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 15:17:40.8|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 15:17:40.8|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-09-02 15:19:21.7|Warn|Sonarr|Unable to complete application test
+
+[v2.0.5.5160] System.Net.Http.HttpRequestException: Connection refused (localhost:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.Execute[TResource](HttpRequest request) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 215
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.GetIndexerSchema(SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 79
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.<>c__DisplayClass11_0.<BuildSonarrIndexer>b__0() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 239
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Prowlarr.Common/Cache/Cached.cs:line 98
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.BuildSonarrIndexer(IndexerDefinition indexer, IndexerCapabilities indexerCapabilities, DownloadProtocol protocol, Int32 id) in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 239
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+
+
+2025-09-02 15:19:21.8|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- BaseUrl: Unable to complete application test, cannot connect to Sonarr. Connection refused (localhost:8989)
+2025-09-02 15:21:15.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [POST] http://sonarr:8989/api/v3/indexer/test: 400.BadRequest (249 bytes)
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).",
+    "severity": "error"
+  }
+]
+2025-09-02 15:21:15.0|Warn|Sonarr|Prowlarr URL is invalid
+
+[v2.0.5.5160] NzbDrone.Common.Http.HttpException: HTTP request failed: [400:BadRequest] [POST] at [http://sonarr:8989/api/v3/indexer/test]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 128
+   at NzbDrone.Common.Http.HttpClient.Post(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 423
+   at NzbDrone.Core.Applications.Sonarr.SonarrV3Proxy.TestConnection(SonarrIndexer indexer, SonarrSettings settings) in ./Prowlarr.Core/Applications/Sonarr/SonarrV3Proxy.cs:line 131
+   at NzbDrone.Core.Applications.Sonarr.Sonarr.Test() in ./Prowlarr.Core/Applications/Sonarr/Sonarr.cs:line 52
+[
+  {
+    "isWarning": false,
+    "propertyName": "",
+    "errorMessage": "Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).",
+    "severity": "error"
+  }
+]
+
+
+2025-09-02 15:21:15.3|Warn|ProwlarrErrorPipeline|Invalid request Validation failed: 
+ -- ProwlarrUrl: Prowlarr URL is invalid, Sonarr cannot connect to Prowlarr

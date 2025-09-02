@@ -5219,3 +5219,294 @@
 2025-09-02 11:51:41.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2025-09-02 11:51:41.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
 2025-09-02 11:51:41.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 12:06:44.3|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:06:44.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:06:44.4|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:06:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 12:21:47.6|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:21:47.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:21:47.6|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:21:47.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 12:36:51.1|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:36:51.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:36:51.2|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:36:51.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 12:51:54.9|Info|RssSyncService|Starting RSS Sync
+2025-09-02 12:51:54.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 12:51:54.9|Info|DownloadDecisionMaker|No results found
+2025-09-02 12:51:54.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 13:06:58.3|Info|RssSyncService|Starting RSS Sync
+2025-09-02 13:06:58.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 13:06:58.3|Info|DownloadDecisionMaker|No results found
+2025-09-02 13:06:58.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 13:22:42.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 13:22:42.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:22:42.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:22:43.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:22:44.3|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:22:44.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:22:44.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:22:44.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:22:45.1|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:22:45.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.506597s
+2025-09-02 13:22:45.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:22:45.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.5322311s
+2025-09-02 13:22:45.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:22:45.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:22:45.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:22:45.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:22:45.6|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:22:45.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1166151s
+2025-09-02 13:22:45.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:22:45.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1765265s
+2025-09-02 13:22:46.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 13:22:49.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 13:22:49.4|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 13:22:49.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 13:22:49.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 13:23:18.9|Info|RssSyncService|Starting RSS Sync
+2025-09-02 13:23:18.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 13:23:19.0|Info|DownloadDecisionMaker|No results found
+2025-09-02 13:23:19.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 13:30:10.5|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 13:30:10.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:30:10.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:30:11.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 13:30:12.3|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:30:12.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:30:12.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:30:12.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:30:12.9|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:30:12.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2974607s
+2025-09-02 13:30:13.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:30:13.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3412076s
+2025-09-02 13:30:13.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 13:30:13.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 13:30:13.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 13:30:13.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 13:30:13.3|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 13:30:13.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0946544s
+2025-09-02 13:30:13.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 13:30:13.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1285398s
+2025-09-02 13:30:15.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 13:30:18.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 13:30:18.3|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 13:30:18.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 13:30:18.5|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 13:38:19.6|Info|RssSyncService|Starting RSS Sync
+2025-09-02 13:38:19.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 13:38:19.7|Info|DownloadDecisionMaker|No results found
+2025-09-02 13:38:19.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 14:10:10.5|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 14:10:10.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:10:10.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:10:11.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:10:12.2|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:10:12.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:10:12.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:10:12.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:10:12.7|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:10:12.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2362329s
+2025-09-02 14:10:12.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:10:12.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2742958s
+2025-09-02 14:10:13.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:10:13.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:10:13.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:10:13.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:10:13.2|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:10:13.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1046779s
+2025-09-02 14:10:13.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:10:13.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1271752s
+2025-09-02 14:10:14.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 14:10:17.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:10:17.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:10:17.3|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 14:10:17.5|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:10:47.1|Info|RssSyncService|Starting RSS Sync
+2025-09-02 14:10:47.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 14:10:47.2|Info|DownloadDecisionMaker|No results found
+2025-09-02 14:10:47.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 14:11:02.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 14:11:03.0|Info|ConsoleApp|Exiting main.
+2025-09-02 14:21:52.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 14:21:52.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:21:52.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:21:53.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:21:54.1|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:21:54.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:21:54.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:21:54.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:21:54.7|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:21:54.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2961275s
+2025-09-02 14:21:54.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:21:54.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.323839s
+2025-09-02 14:21:54.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:21:55.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:21:55.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:21:55.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:21:55.1|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:21:55.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1508094s
+2025-09-02 14:21:55.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:21:55.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1848081s
+2025-09-02 14:21:56.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 14:21:59.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:21:59.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:21:59.1|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 14:21:59.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:44:54.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 14:44:54.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:44:54.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:44:55.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:44:56.2|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:44:56.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:44:56.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:44:56.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:44:56.9|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:44:56.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3417328s
+2025-09-02 14:44:56.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:44:57.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3737409s
+2025-09-02 14:44:57.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:44:57.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:44:57.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:44:57.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:44:57.3|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:44:57.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1331759s
+2025-09-02 14:44:57.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:44:57.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1601954s
+2025-09-02 14:44:58.6|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 14:45:01.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:45:01.8|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:45:01.8|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 14:45:02.0|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:45:31.1|Info|RssSyncService|Starting RSS Sync
+2025-09-02 14:45:31.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 14:45:31.2|Info|DownloadDecisionMaker|No results found
+2025-09-02 14:45:31.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 14:47:34.0|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 14:47:34.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:47:34.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:47:35.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 14:47:35.7|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:47:36.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:47:36.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:47:36.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:47:36.4|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:47:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3192928s
+2025-09-02 14:47:36.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:47:36.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3486188s
+2025-09-02 14:47:36.6|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 14:47:36.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 14:47:36.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 14:47:36.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 14:47:36.9|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 14:47:36.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1510468s
+2025-09-02 14:47:37.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 14:47:37.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1963115s
+2025-09-02 14:47:38.1|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 14:47:41.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 14:47:41.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 14:47:41.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 14:47:41.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 14:52:11.4|Info|SceneMappingService|Updating Scene mappings
+2025-09-02 15:00:44.4|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:00:44.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:00:45.0|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:00:45.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 15:15:38.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 15:15:40.0|Info|ConsoleApp|Exiting main.
+2025-09-02 15:15:45.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 15:15:45.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:15:45.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:15:46.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:15:46.4|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:15:46.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:15:46.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:15:46.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:15:47.1|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:15:47.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.4904868s
+2025-09-02 15:15:47.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:15:47.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.5125878s
+2025-09-02 15:15:47.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:15:47.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:15:47.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:15:47.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:15:47.7|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:15:47.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3373435s
+2025-09-02 15:15:47.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:15:47.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3579826s
+2025-09-02 15:15:48.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 15:16:03.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 15:16:03.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 15:16:03.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 15:16:03.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 15:16:32.2|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:16:32.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:16:32.6|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:16:33.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-02 15:16:51.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-09-02 15:16:52.4|Info|ConsoleApp|Exiting main.
+2025-09-02 15:17:10.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.15.2941
+2025-09-02 15:17:11.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:17:11.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:17:12.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-09-02 15:17:12.5|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:17:12.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:17:13.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:17:13.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:17:13.8|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:17:13.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.7323208s
+2025-09-02 15:17:13.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:17:14.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.7551984s
+2025-09-02 15:17:14.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-09-02 15:17:14.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-09-02 15:17:14.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-09-02 15:17:14.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-09-02 15:17:15.1|Info|DatabaseEngineVersionCheck|SQLite 3.49.2
+2025-09-02 15:17:15.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.4048061s
+2025-09-02 15:17:15.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-09-02 15:17:15.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.4353033s
+2025-09-02 15:17:16.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-09-02 15:17:34.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-09-02 15:17:34.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-09-02 15:17:34.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-09-02 15:17:34.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-09-02 15:17:44.9|Info|Auth|Auth-Success ip 100.*.*.19 username 'thestingray22'
+2025-09-02 15:21:14.5|Warn|Newznab|Unable to connect to indexer
+
+[v4.0.15.2941] System.Net.Http.HttpRequestException: Connection refused (localhost:9696)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 327
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 313
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Sonarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Sonarr.Common/Http/HttpClient.cs:line 157
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Sonarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 199
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 376
+
+2025-09-02 15:21:14.8|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, please check your DNS settings and ensure that IPv6 is working or disabled. Connection refused (localhost:9696).
+2025-09-02 15:31:43.1|Info|RssSyncService|Starting RSS Sync
+2025-09-02 15:31:43.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2025-09-02 15:31:43.9|Info|DownloadDecisionMaker|No results found
+2025-09-02 15:31:44.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0

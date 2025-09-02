@@ -76,8 +76,8 @@ general:
   language_equals: []
   minimum_score: 90
   minimum_score_movie: 70
-  movie_default_enabled: false
-  movie_default_profile: ''
+  movie_default_enabled: true
+  movie_default_profile: 1
   movie_tag_enabled: false
   multithreading: true
   page_size: 25
@@ -89,8 +89,8 @@ general:
   postprocessing_threshold: 90
   postprocessing_threshold_movie: 70
   remove_profile_tags: []
-  serie_default_enabled: false
-  serie_default_profile: ''
+  serie_default_enabled: true
+  serie_default_profile: 1
   serie_tag_enabled: false
   single_language: false
   skip_hashing: false
@@ -108,7 +108,7 @@ general:
   use_postprocessing_threshold_movie: false
   use_radarr: false
   use_scenename: true
-  use_sonarr: false
+  use_sonarr: true
   utf8_encode: true
   wanted_search_frequency: 6
   wanted_search_frequency_movie: 6
@@ -230,8 +230,8 @@ series_scores:
   video_codec: 2
   year: 90
 sonarr:
-  apikey: ''
-  base_url: /
+  apikey: 634443d35a1e4d789212a6f363206ed6
+  base_url: ''
   defer_search_signalr: false
   exclude_season_zero: false
   excluded_series_types: []
@@ -240,7 +240,7 @@ sonarr:
   full_update_day: 6
   full_update_hour: 4
   http_timeout: 60
-  ip: 127.0.0.1
+  ip: sonarr
   only_monitored: false
   port: 8989
   series_sync: 60

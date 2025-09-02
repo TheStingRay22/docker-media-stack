@@ -1,3 +1,32 @@
 2025-09-02 11:50:16|INFO    |root                            |Scheduler will use this timezone: America/New_York|
 2025-09-02 11:50:28|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
 2025-09-02 11:50:28|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 13:23:04|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 13:23:08|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 13:23:08|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 13:30:32|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 13:30:35|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 13:30:35|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 14:10:29|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 14:10:33|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 14:10:33|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 14:22:11|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 14:22:14|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 14:22:14|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 14:45:14|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 14:45:18|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 14:45:18|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 14:47:53|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 14:47:57|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 14:47:57|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 15:06:37|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2025-09-02 15:15:38|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 15:15:50|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 15:15:50|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2025-09-02 15:15:50|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 15:17:27|INFO    |root                            |Scheduler will use this timezone: America/New_York|
+2025-09-02 15:17:41|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-09-02 15:17:41|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2025-09-02 15:17:41|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2025-09-02 15:30:11|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2025-09-02 15:30:12|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
